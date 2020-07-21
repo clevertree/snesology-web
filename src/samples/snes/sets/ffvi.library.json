@@ -1,6 +1,13 @@
 {
-  "name": "Final Fantasy VI",
+  "title": "Final Fantasy VI",
   "urlPrefix": "ffvi/",
+  "presets2": [
+    { "title": "acoustic_bass",
+      "voices": [
+        { "url": "acoustic_bass.wav", "root": "C5" }
+      ]
+    },
+  ],
   "samples": {
     "closed_hat": {
       "url": "closed_hat.wav",
