@@ -46,7 +46,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/samples/snes/sets" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/samples" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -56,21 +56,21 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/samples" />
       <recent name="$PROJECT_DIR$/src/samples/snes/sets" />
       <recent name="$PROJECT_DIR$/src/samples/snes" />
       <recent name="$PROJECT_DIR$/src/samples/snes/ffvi" />
       <recent name="$PROJECT_DIR$/src" />
-      <recent name="$PROJECT_DIR$/src/programs" />
     </key>
     <key name="es6.move.members.recent.items">
       <recent name="$PROJECT_DIR$/src/components/menu/dropdown/DropDownOptionProcessor.js" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/samples/" />
       <recent name="$PROJECT_DIR$/src/samples/snes/libraries" />
-      <recent name="$PROJECT_DIR$/src/samples/snes/ffvi" />
-      <recent name="$PROJECT_DIR$/src/samples/snes/ffvi/S" />
-      <recent name="$PROJECT_DIR$/src/components/dropdown/context" />
-      <recent name="$PROJECT_DIR$/src/components/dropdown" />
+      <recent name="$PROJECT_DIR$/src/samples/snes/sets" />
+      <recent name="$PROJECT_DIR$/src/samples/snes/" />
+      <recent name="$PROJECT_DIR$/src/samples/snes/sets/s" />
     </key>
   </component>
   <component name="RunManager" selected="npm.start">
@@ -144,7 +144,7 @@
       <workItem from="1594946935429" duration="4332000" />
       <workItem from="1594959957239" duration="6366000" />
       <workItem from="1595010149798" duration="14385000" />
-      <workItem from="1595293995821" duration="8050000" />
+      <workItem from="1595293995821" duration="13127000" />
     </task>
     <servers />
   </component>
@@ -184,22 +184,22 @@
       <screen x="3440" y="0" width="3840" height="2160" />
     </state>
     <state x="5171" y="835" width="424" height="513" key="FileChooserDialogImpl/3440.0.3840.2160/0.205.3440.1440@3440.0.3840.2160" timestamp="1595302266992" />
-    <state width="978" height="1982" key="GridCell.Tab.0.bottom" timestamp="1595308067570">
+    <state width="978" height="1982" key="GridCell.Tab.0.bottom" timestamp="1595364583539">
       <screen x="3440" y="0" width="3840" height="2160" />
     </state>
-    <state width="978" height="1982" key="GridCell.Tab.0.bottom/3440.0.3840.2160/0.205.3440.1440@3440.0.3840.2160" timestamp="1595308067570" />
-    <state width="978" height="1982" key="GridCell.Tab.0.center" timestamp="1595308067569">
+    <state width="978" height="1982" key="GridCell.Tab.0.bottom/3440.0.3840.2160/0.205.3440.1440@3440.0.3840.2160" timestamp="1595364583539" />
+    <state width="978" height="1982" key="GridCell.Tab.0.center" timestamp="1595364583539">
       <screen x="3440" y="0" width="3840" height="2160" />
     </state>
-    <state width="978" height="1982" key="GridCell.Tab.0.center/3440.0.3840.2160/0.205.3440.1440@3440.0.3840.2160" timestamp="1595308067569" />
-    <state width="978" height="1982" key="GridCell.Tab.0.left" timestamp="1595308067569">
+    <state width="978" height="1982" key="GridCell.Tab.0.center/3440.0.3840.2160/0.205.3440.1440@3440.0.3840.2160" timestamp="1595364583539" />
+    <state width="978" height="1982" key="GridCell.Tab.0.left" timestamp="1595364583539">
       <screen x="3440" y="0" width="3840" height="2160" />
     </state>
-    <state width="978" height="1982" key="GridCell.Tab.0.left/3440.0.3840.2160/0.205.3440.1440@3440.0.3840.2160" timestamp="1595308067569" />
-    <state width="978" height="1982" key="GridCell.Tab.0.right" timestamp="1595308067570">
+    <state width="978" height="1982" key="GridCell.Tab.0.left/3440.0.3840.2160/0.205.3440.1440@3440.0.3840.2160" timestamp="1595364583539" />
+    <state width="978" height="1982" key="GridCell.Tab.0.right" timestamp="1595364583539">
       <screen x="3440" y="0" width="3840" height="2160" />
     </state>
-    <state width="978" height="1982" key="GridCell.Tab.0.right/3440.0.3840.2160/0.205.3440.1440@3440.0.3840.2160" timestamp="1595308067570" />
+    <state width="978" height="1982" key="GridCell.Tab.0.right/3440.0.3840.2160/0.205.3440.1440@3440.0.3840.2160" timestamp="1595364583539" />
     <state width="1383" height="1982" key="GridCell.Tab.1.bottom" timestamp="1595293270338">
       <screen x="3440" y="0" width="3840" height="2160" />
     </state>
@@ -252,10 +252,10 @@
       <screen x="3440" y="0" width="3840" height="2160" />
     </state>
     <state width="1886" height="1067" key="XDebugger.FullValuePopup/3440.0.3840.2160/0.205.3440.1440@3440.0.3840.2160" timestamp="1594164909749" />
-    <state x="3607" y="125" width="3573" height="1935" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1595293268655">
+    <state x="3607" y="125" width="3573" height="1935" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1595363385021">
       <screen x="3440" y="0" width="3840" height="2160" />
     </state>
-    <state x="3607" y="125" width="3573" height="1935" key="com.intellij.history.integration.ui.views.FileHistoryDialog/3440.0.3840.2160/0.205.3440.1440@3440.0.3840.2160" timestamp="1595293268655" />
+    <state x="3607" y="125" width="3573" height="1935" key="com.intellij.history.integration.ui.views.FileHistoryDialog/3440.0.3840.2160/0.205.3440.1440@3440.0.3840.2160" timestamp="1595363385021" />
     <state x="4921" y="707" width="934" height="770" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1594241296974">
       <screen x="3440" y="0" width="3840" height="2160" />
     </state>
@@ -268,17 +268,17 @@
       <screen x="3440" y="0" width="3840" height="2160" />
     </state>
     <state x="4921" y="804" width="934" height="576" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/3440.0.3840.2160/0.205.3440.1440@3440.0.3840.2160" timestamp="1595219277892" />
-    <state x="5084" y="834" width="1251" height="933" key="find.popup" timestamp="1595306635492">
+    <state x="5084" y="834" width="1251" height="933" key="find.popup" timestamp="1595366268367">
       <screen x="3440" y="0" width="3840" height="2160" />
     </state>
-    <state x="5084" y="834" width="1251" height="933" key="find.popup/3440.0.3840.2160/0.205.3440.1440@3440.0.3840.2160" timestamp="1595306635492" />
+    <state x="5084" y="834" width="1251" height="933" key="find.popup/3440.0.3840.2160/0.205.3440.1440@3440.0.3840.2160" timestamp="1595366268367" />
     <state x="5057" y="523" key="run.anything.popup" timestamp="1595215928544">
       <screen x="3440" y="0" width="3840" height="2160" />
     </state>
     <state x="5057" y="523" key="run.anything.popup/3440.0.3840.2160/0.205.3440.1440@3440.0.3840.2160" timestamp="1595215928544" />
-    <state x="5057" y="738" width="672" height="676" key="search.everywhere.popup" timestamp="1595303735394">
+    <state x="5057" y="738" width="672" height="676" key="search.everywhere.popup" timestamp="1595365195883">
       <screen x="3440" y="0" width="3840" height="2160" />
     </state>
-    <state x="5057" y="738" width="672" height="676" key="search.everywhere.popup/3440.0.3840.2160/0.205.3440.1440@3440.0.3840.2160" timestamp="1595303735394" />
+    <state x="5057" y="738" width="672" height="676" key="search.everywhere.popup/3440.0.3840.2160/0.205.3440.1440@3440.0.3840.2160" timestamp="1595365195883" />
   </component>
 </project>

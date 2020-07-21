@@ -1,0 +1,122 @@
+{ "title": "Final Fantasy VI",
+  "urlPrefix": "samples/ffvi/",
+  "presets": [
+    { "title": "acoustic_bass",
+      "voices": [{ "url": "acoustic_bass.wav", "root": "C5", "loop": true }]
+    },
+    { "title": "atma_lead",
+      "voices": [{ "url": "atma_lead.wav", "root": "C5", "loop": true }]
+    },
+    { "title": "banjo",
+      "voices": [{ "url": "banjo.wav", "root": "C5", "loop": true }]
+    },
+    { "title": "basses",
+      "voices": [{ "url": "basses.wav", "root": "C5", "loop": true }]
+    },
+    { "title": "celesta",
+      "voices": [{ "url": "celesta.wav", "root": "C5", "loop": true }]
+    },
+    { "title": "cello",
+      "voices": [{ "url": "cello.wav", "root": "C5", "loop": true }]
+    },
+    { "title": "cyan_flute",
+      "voices": [{ "url": "cyan_flute.wav", "root": "C5", "loop": true }]
+    },
+    { "title": "distorted_guitar",
+      "voices": [{ "url": "distorted_guitar.wav", "root": "C5", "loop": true }]
+    },
+    { "title": "dulcimer",
+      "voices": [{ "url": "dulcimer.wav", "root": "C5", "loop": true }]
+    },
+    { "title": "female_choir",
+      "voices": [{ "url": "female_choir.wav", "root": "C5", "loop": true }]
+    },
+    { "title": "fingered_bass",
+      "voices": [{ "url": "fingered_bass.wav", "root": "C5", "loop": true }]
+    },
+    { "title": "flute",
+      "voices": [{ "url": "flute.wav", "root": "C5", "loop": true }]
+    },
+    { "title": "french_horn",
+      "voices": [{ "url": "french_horn.wav", "root": "C5", "loop": true }]
+    },
+    { "title": "guitar_harp",
+      "voices": [{ "url": "guitar_harp.wav", "root": "C5", "loop": true }]
+    },
+    { "title": "jaw_harp",
+      "voices": [{ "url": "jaw_harp.wav", "root": "C5", "loop": true }]
+    },
+    { "title": "lowland_pipes",
+      "voices": [{ "url": "lowland_pipes.wav", "root": "C5", "loop": true }]
+    },
+    { "title": "male_choir",
+      "voices": [{ "url": "male_choir.wav", "root": "C5", "loop": true }]
+    },
+    { "title": "male_choir_2",
+      "voices": [{ "url": "male_choir_2.wav", "root": "C5", "loop": true }]
+    },
+    { "title": "muted_trumpet",
+      "voices": [{ "url": "muted_trumpet.wav", "root": "C5", "loop": true }]
+    },
+    { "title": "oboe",
+      "voices": [{ "url": "oboe.wav", "root": "C5", "loop": true }]
+    },
+    { "title": "pan_flute",
+      "voices": [{ "url": "pan_flute.wav", "root": "C5", "loop": true }]
+    },
+    { "title": "percussion",
+      "voices": [
+        { "url": "closed_hat.wav",  "alias": "G#2" },
+        { "url": "cowbell.wav",     "alias": "D#3" },
+        { "url": "crash.wav",       "alias": "C#3" },
+        { "url": "kick.wav",        "alias": "C3" },
+        { "url": "open_hat.wav",    "alias": "A#2" },
+        { "url": "snare.wav",       "alias": "D3" },
+        { "url": "supasnare.wav",   "alias": "B2" },
+        { "url": "tom.wav",         "alias": "A2" }
+      ]
+    },
+    { "title": "piano",
+      "voices": [{ "url": "piano.wav", "root": "C5", "loop": true }]
+    },
+    { "title": "pipe_organl",
+      "voices": [{ "url": "pipe_organl.wav", "root": "C5", "loop": true }]
+    },
+    { "title": "pitched_chimes_looped",
+      "voices": [{ "url": "pitched_chimes_looped.wav", "root": "C5", "loop": true }]
+    },
+    { "title": "pizz",
+      "voices": [{ "url": "pizz.wav", "root": "C5", "loop": true }]
+    },
+    { "title": "reed",
+      "voices": [{ "url": "reed.wav", "root": "C5", "loop": true }]
+    },
+    { "title": "rock_organ",
+      "voices": [{ "url": "rock_organ.wav", "root": "C5", "loop": true }]
+    },
+    { "title": "soft_choir",
+      "voices": [{ "url": "soft_choir.wav", "root": "C5", "loop": true }]
+    },
+    { "title": "spanish_guitar",
+      "voices": [{ "url": "spanish_guitar.wav", "root": "C5", "loop": true }]
+    },
+    { "title": "strings",
+      "voices": [{ "url": "strings.wav", "root": "C5", "loop": true }]
+    },
+    { "title": "synth_bass",
+      "voices": [{ "url": "synth_bass.wav", "root": "C5", "loop": true }]
+    },
+    { "title": "timpani",
+      "voices": [{ "url": "timpani.wav", "root": "C5", "loop": true }]
+    },
+    { "title": "tuba",
+      "voices": [{ "url": "tuba.wav", "root": "C5", "loop": true }]
+    },
+    { "title": "western_guitar",
+      "voices": [{ "url": "western_guitar.wav", "root": "C5", "loop": true }]
+    },
+    { "title": "whistle",
+      "voices": [{ "url": "whistle.wav", "root": "C5", "loop": true }]
+    }
+  ]
+}
