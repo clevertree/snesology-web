@@ -1,0 +1,284 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="418d3449-0daa-4ba7-bfa9-b8c2fdc60e1f" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../snesology-old/.gitmodules" beforeDir="false" afterPath="$PROJECT_DIR$/../snesology-old/.gitmodules" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../snesology-old/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../snesology-old/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../snesology-old/audio-source" beforeDir="false" afterPath="$PROJECT_DIR$/../snesology-old/audio-source" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../snesology-old/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../snesology-old/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../snesology-old/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/../snesology-old/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="NamedScopeManager">
+    <order>
+      <scope name="No Native" />
+    </order>
+  </component>
+  <component name="PhpDebugGeneral" listening_started="true" />
+  <component name="ProjectId" id="1dY1UuKRaqcM85eJbA9F1ZEDc38" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="restartRequiresConfirmation" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src" />
+      <recent name="$PROJECT_DIR$/src/programs" />
+      <recent name="$PROJECT_DIR$/src/programs/voice/audiobuffer" />
+      <recent name="$PROJECT_DIR$/src/composer" />
+      <recent name="$PROJECT_DIR$/src/components/menu/action" />
+    </key>
+    <key name="es6.move.members.recent.items">
+      <recent name="$PROJECT_DIR$/src/components/menu/dropdown/DropDownOptionProcessor.js" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/components/dropdown/context" />
+      <recent name="$PROJECT_DIR$/src/components/dropdown" />
+      <recent name="$PROJECT_DIR$/src/components/menu/item" />
+      <recent name="$PROJECT_DIR$/src/components/menu/break" />
+      <recent name="$PROJECT_DIR$/src/components/menu/dropdown" />
+    </key>
+  </component>
+  <component name="RunManager" selected="npm.start">
+    <configuration name="index.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/audio-source-web/build/index.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="download.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/src/samples/gm/fws/misk/download.js" working-dir="$PROJECT_DIR$/src/samples/gm/fws/misk">
+      <method v="2" />
+    </configuration>
+    <configuration name="run build" type="js.build_tools.npm" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="build" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <configuration name="start" type="js.build_tools.npm" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="start" />
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <configuration name="test" type="js.build_tools.npm" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="test" />
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="JavaScript Debug.index.html" />
+      <item itemvalue="Node.js.download.js" />
+      <item itemvalue="npm.start" />
+      <item itemvalue="npm.run build" />
+      <item itemvalue="npm.test" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JavaScript Debug.index.html" />
+        <item itemvalue="Node.js.download.js" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="418d3449-0daa-4ba7-bfa9-b8c2fdc60e1f" name="Default Changelist" comment="" />
+      <created>1592587232482</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1592587232482</updated>
+      <workItem from="1592587234516" duration="5044000" />
+      <workItem from="1592595562063" duration="19687000" />
+      <workItem from="1592770688794" duration="44181000" />
+      <workItem from="1593114943269" duration="4326000" />
+      <workItem from="1593286649485" duration="31903000" />
+      <workItem from="1593719100178" duration="7275000" />
+      <workItem from="1593792143125" duration="32282000" />
+      <workItem from="1594157737957" duration="7682000" />
+      <workItem from="1594236102597" duration="15290000" />
+      <workItem from="1594327856339" duration="9169000" />
+      <workItem from="1594444516065" duration="1779000" />
+      <workItem from="1594777000952" duration="600000" />
+      <workItem from="1594852781757" duration="11656000" />
+      <workItem from="1594946935429" duration="4332000" />
+      <workItem from="1594959957239" duration="6366000" />
+      <workItem from="1595010149798" duration="14385000" />
+      <workItem from="1595293995821" duration="6197000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="5149" y="629" width="478" height="926" key="#Code_Folding" timestamp="1593061050020">
+      <screen x="3440" y="0" width="3840" height="2160" />
+    </state>
+    <state x="5149" y="629" width="478" height="926" key="#Code_Folding/3440.0.3840.2160/0.205.3440.1440@3440.0.3840.2160" timestamp="1593061050020" />
+    <state x="5092" y="785" width="593" height="614" key="#Images" timestamp="1593545432437">
+      <screen x="3440" y="0" width="3840" height="2160" />
+    </state>
+    <state x="5092" y="785" width="593" height="614" key="#Images/3440.0.3840.2160/0.205.3440.1440@3440.0.3840.2160" timestamp="1593545432437" />
+    <state x="5188" y="954" width="513" height="395" key="#Scopes" timestamp="1592955324637">
+      <screen x="3440" y="0" width="3840" height="2160" />
+    </state>
+    <state x="5188" y="954" width="513" height="395" key="#Scopes/3440.0.3840.2160/0.205.3440.1440@3440.0.3840.2160" timestamp="1592955324637" />
+    <state x="4851" y="750" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1595293288426">
+      <screen x="3440" y="0" width="3840" height="2160" />
+    </state>
+    <state x="4851" y="750" key="#com.intellij.execution.impl.EditConfigurationsDialog/3440.0.3840.2160/0.205.3440.1440@3440.0.3840.2160" timestamp="1595293288426" />
+    <state x="5104" y="894" width="568" height="396" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1592421651116">
+      <screen x="3440" y="0" width="3840" height="2160" />
+    </state>
+    <state x="5104" y="894" width="568" height="396" key="#com.intellij.fileTypes.FileTypeChooser/3440.0.3840.2160/0.205.3440.1440@3440.0.3840.2160" timestamp="1592421651116" />
+    <state x="5055" y="777" width="666" height="631" key="#run_build" timestamp="1595293299180">
+      <screen x="3440" y="0" width="3840" height="2160" />
+    </state>
+    <state x="5055" y="777" width="666" height="631" key="#run_build/3440.0.3840.2160/0.205.3440.1440@3440.0.3840.2160" timestamp="1595293299180" />
+    <state x="5151" y="837" key="#xdebugger.evaluate" timestamp="1594234654674">
+      <screen x="3440" y="0" width="3840" height="2160" />
+    </state>
+    <state x="5151" y="837" key="#xdebugger.evaluate/3440.0.3840.2160/0.205.3440.1440@3440.0.3840.2160" timestamp="1594234654674" />
+    <state x="5171" y="835" width="424" height="513" key="FileChooserDialogImpl" timestamp="1595302266992">
+      <screen x="3440" y="0" width="3840" height="2160" />
+    </state>
+    <state x="5171" y="835" width="424" height="513" key="FileChooserDialogImpl/3440.0.3840.2160/0.205.3440.1440@3440.0.3840.2160" timestamp="1595302266992" />
+    <state width="978" height="1982" key="GridCell.Tab.0.bottom" timestamp="1595304679184">
+      <screen x="3440" y="0" width="3840" height="2160" />
+    </state>
+    <state width="978" height="1982" key="GridCell.Tab.0.bottom/3440.0.3840.2160/0.205.3440.1440@3440.0.3840.2160" timestamp="1595304679184" />
+    <state width="978" height="1982" key="GridCell.Tab.0.center" timestamp="1595304679183">
+      <screen x="3440" y="0" width="3840" height="2160" />
+    </state>
+    <state width="978" height="1982" key="GridCell.Tab.0.center/3440.0.3840.2160/0.205.3440.1440@3440.0.3840.2160" timestamp="1595304679183" />
+    <state width="978" height="1982" key="GridCell.Tab.0.left" timestamp="1595304679183">
+      <screen x="3440" y="0" width="3840" height="2160" />
+    </state>
+    <state width="978" height="1982" key="GridCell.Tab.0.left/3440.0.3840.2160/0.205.3440.1440@3440.0.3840.2160" timestamp="1595304679183" />
+    <state width="978" height="1982" key="GridCell.Tab.0.right" timestamp="1595304679184">
+      <screen x="3440" y="0" width="3840" height="2160" />
+    </state>
+    <state width="978" height="1982" key="GridCell.Tab.0.right/3440.0.3840.2160/0.205.3440.1440@3440.0.3840.2160" timestamp="1595304679184" />
+    <state width="1383" height="1982" key="GridCell.Tab.1.bottom" timestamp="1595293270338">
+      <screen x="3440" y="0" width="3840" height="2160" />
+    </state>
+    <state width="1383" height="1982" key="GridCell.Tab.1.bottom/3440.0.3840.2160/0.205.3440.1440@3440.0.3840.2160" timestamp="1595293270338" />
+    <state width="1383" height="1982" key="GridCell.Tab.1.center" timestamp="1595293270338">
+      <screen x="3440" y="0" width="3840" height="2160" />
+    </state>
+    <state width="1383" height="1982" key="GridCell.Tab.1.center/3440.0.3840.2160/0.205.3440.1440@3440.0.3840.2160" timestamp="1595293270338" />
+    <state width="1383" height="1982" key="GridCell.Tab.1.left" timestamp="1595293270338">
+      <screen x="3440" y="0" width="3840" height="2160" />
+    </state>
+    <state width="1383" height="1982" key="GridCell.Tab.1.left/3440.0.3840.2160/0.205.3440.1440@3440.0.3840.2160" timestamp="1595293270338" />
+    <state width="1383" height="1982" key="GridCell.Tab.1.right" timestamp="1595293270338">
+      <screen x="3440" y="0" width="3840" height="2160" />
+    </state>
+    <state width="1383" height="1982" key="GridCell.Tab.1.right/3440.0.3840.2160/0.205.3440.1440@3440.0.3840.2160" timestamp="1595293270338" />
+    <state width="1383" height="1982" key="GridCell.Tab.2.bottom" timestamp="1595293270338">
+      <screen x="3440" y="0" width="3840" height="2160" />
+    </state>
+    <state width="1383" height="1982" key="GridCell.Tab.2.bottom/3440.0.3840.2160/0.205.3440.1440@3440.0.3840.2160" timestamp="1595293270338" />
+    <state width="1383" height="1982" key="GridCell.Tab.2.center" timestamp="1595293270338">
+      <screen x="3440" y="0" width="3840" height="2160" />
+    </state>
+    <state width="1383" height="1982" key="GridCell.Tab.2.center/3440.0.3840.2160/0.205.3440.1440@3440.0.3840.2160" timestamp="1595293270338" />
+    <state width="1383" height="1982" key="GridCell.Tab.2.left" timestamp="1595293270338">
+      <screen x="3440" y="0" width="3840" height="2160" />
+    </state>
+    <state width="1383" height="1982" key="GridCell.Tab.2.left/3440.0.3840.2160/0.205.3440.1440@3440.0.3840.2160" timestamp="1595293270338" />
+    <state width="1383" height="1982" key="GridCell.Tab.2.right" timestamp="1595293270338">
+      <screen x="3440" y="0" width="3840" height="2160" />
+    </state>
+    <state width="1383" height="1982" key="GridCell.Tab.2.right/3440.0.3840.2160/0.205.3440.1440@3440.0.3840.2160" timestamp="1595293270338" />
+    <state width="1383" height="1982" key="GridCell.Tab.3.bottom" timestamp="1594853875575">
+      <screen x="3440" y="0" width="3840" height="2160" />
+    </state>
+    <state width="1383" height="1982" key="GridCell.Tab.3.bottom/3440.0.3840.2160/0.205.3440.1440@3440.0.3840.2160" timestamp="1594853875575" />
+    <state width="1383" height="1982" key="GridCell.Tab.3.center" timestamp="1594853875575">
+      <screen x="3440" y="0" width="3840" height="2160" />
+    </state>
+    <state width="1383" height="1982" key="GridCell.Tab.3.center/3440.0.3840.2160/0.205.3440.1440@3440.0.3840.2160" timestamp="1594853875575" />
+    <state width="1383" height="1982" key="GridCell.Tab.3.left" timestamp="1594853875575">
+      <screen x="3440" y="0" width="3840" height="2160" />
+    </state>
+    <state width="1383" height="1982" key="GridCell.Tab.3.left/3440.0.3840.2160/0.205.3440.1440@3440.0.3840.2160" timestamp="1594853875575" />
+    <state width="1383" height="1982" key="GridCell.Tab.3.right" timestamp="1594853875575">
+      <screen x="3440" y="0" width="3840" height="2160" />
+    </state>
+    <state width="1383" height="1982" key="GridCell.Tab.3.right/3440.0.3840.2160/0.205.3440.1440@3440.0.3840.2160" timestamp="1594853875575" />
+    <state width="1886" height="1067" key="XDebugger.FullValuePopup" timestamp="1594164909749">
+      <screen x="3440" y="0" width="3840" height="2160" />
+    </state>
+    <state width="1886" height="1067" key="XDebugger.FullValuePopup/3440.0.3840.2160/0.205.3440.1440@3440.0.3840.2160" timestamp="1594164909749" />
+    <state x="3607" y="125" width="3573" height="1935" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1595293268655">
+      <screen x="3440" y="0" width="3840" height="2160" />
+    </state>
+    <state x="3607" y="125" width="3573" height="1935" key="com.intellij.history.integration.ui.views.FileHistoryDialog/3440.0.3840.2160/0.205.3440.1440@3440.0.3840.2160" timestamp="1595293268655" />
+    <state x="4921" y="707" width="934" height="770" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1594241296974">
+      <screen x="3440" y="0" width="3840" height="2160" />
+    </state>
+    <state x="4921" y="707" width="934" height="770" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/3440.0.3840.2160/0.205.3440.1440@3440.0.3840.2160" timestamp="1594241296974" />
+    <state x="5164" y="1007" width="448" height="170" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1594961687605">
+      <screen x="3440" y="0" width="3840" height="2160" />
+    </state>
+    <state x="5164" y="1007" width="448" height="170" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/3440.0.3840.2160/0.205.3440.1440@3440.0.3840.2160" timestamp="1594961687605" />
+    <state x="4921" y="804" width="934" height="576" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1595219277892">
+      <screen x="3440" y="0" width="3840" height="2160" />
+    </state>
+    <state x="4921" y="804" width="934" height="576" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/3440.0.3840.2160/0.205.3440.1440@3440.0.3840.2160" timestamp="1595219277892" />
+    <state x="5084" y="834" width="1251" height="933" key="find.popup" timestamp="1595305127313">
+      <screen x="3440" y="0" width="3840" height="2160" />
+    </state>
+    <state x="5084" y="834" width="1251" height="933" key="find.popup/3440.0.3840.2160/0.205.3440.1440@3440.0.3840.2160" timestamp="1595305127313" />
+    <state x="5057" y="523" key="run.anything.popup" timestamp="1595215928544">
+      <screen x="3440" y="0" width="3840" height="2160" />
+    </state>
+    <state x="5057" y="523" key="run.anything.popup/3440.0.3840.2160/0.205.3440.1440@3440.0.3840.2160" timestamp="1595215928544" />
+    <state x="5057" y="738" width="672" height="676" key="search.everywhere.popup" timestamp="1595303735394">
+      <screen x="3440" y="0" width="3840" height="2160" />
+    </state>
+    <state x="5057" y="738" width="672" height="676" key="search.everywhere.popup/3440.0.3840.2160/0.205.3440.1440@3440.0.3840.2160" timestamp="1595303735394" />
+  </component>
+</project>

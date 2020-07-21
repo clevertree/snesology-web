@@ -1,0 +1,9 @@
+{
+  "name": "Sample Library Index",
+  "libraries": [
+    {
+      "name": "Final Fantasy VI Library",
+      "url": "snes/ffvi.library.json"
+    }
+  ]
+}

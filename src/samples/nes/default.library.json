@@ -1,0 +1,13 @@
+{
+  "name": "Nintendo",
+  "urlPrefix": "",
+  "samples": {
+    "pulse1": {
+      "url": "pulse1.json",
+      "loop": true
+    }
+  },
+  "instruments": {
+    "pulse1": {}
+  }
+}

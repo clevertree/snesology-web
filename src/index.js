@@ -1,12 +1,17 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-import './index.css';
-import App from './App';
-import * as serviceWorker from './serviceWorker';
+import * as serviceWorker from './audio-source/serviceWorker';
+
+import {IndexRouter} from "./audio-source/site";
+import {Library} from "./audio-source/song";
+
+// Set default library
+import DefaultLibraryData from "./snesology.library";
+Library.setDefaultLibrary(DefaultLibraryData);
 
 ReactDOM.render(
   <React.StrictMode>
-    <App />
+      <IndexRouter />
   </React.StrictMode>,
   document.getElementById('root')
 );
