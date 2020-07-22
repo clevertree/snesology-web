@@ -34,7 +34,7 @@ class SNESLibrary {
 			return ['PolyphonyInstrument', presetConfig];
 		});
 
-		console.log('presets', presets);
+		// console.log('presets', presets);
 		switch(programClassFilter) {
 			default:
 				case 'PolyphonyInstrument':

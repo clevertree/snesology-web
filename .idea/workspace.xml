@@ -2,13 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="418d3449-0daa-4ba7-bfa9-b8c2fdc60e1f" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/snesology-web.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/snesology-web.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/audio-source" beforeDir="false" afterPath="$PROJECT_DIR$/src/audio-source" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/audio-source/composer/ASComposerInput.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/audio-source/composer/ASComposerInput.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/audio-source/composer/ASComposerInput.native.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/audio-source/composer/ASComposerInput.native.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/audio-source/composer/program/browser/ASCPresetBrowser.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/audio-source/composer/program/browser/ASCPresetBrowser.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/audio-source/song/Song.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/audio-source/song/Song.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -146,7 +143,7 @@
       <workItem from="1594959957239" duration="6366000" />
       <workItem from="1595010149798" duration="14385000" />
       <workItem from="1595293995821" duration="18110000" />
-      <workItem from="1595394437503" duration="1432000" />
+      <workItem from="1595394437503" duration="3452000" />
     </task>
     <servers />
   </component>
@@ -274,17 +271,17 @@
       <screen x="3440" y="0" width="3840" height="2160" />
     </state>
     <state x="4921" y="804" width="934" height="576" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/3440.0.3840.2160/0.205.3440.1440@3440.0.3840.2160" timestamp="1595219277892" />
-    <state x="5084" y="834" width="1251" height="933" key="find.popup" timestamp="1595395350050">
+    <state x="5084" y="834" width="1251" height="933" key="find.popup" timestamp="1595404655920">
       <screen x="3440" y="0" width="3840" height="2160" />
     </state>
-    <state x="5084" y="834" width="1251" height="933" key="find.popup/3440.0.3840.2160/0.205.3440.1440@3440.0.3840.2160" timestamp="1595395350050" />
+    <state x="5084" y="834" width="1251" height="933" key="find.popup/3440.0.3840.2160/0.205.3440.1440@3440.0.3840.2160" timestamp="1595404655920" />
     <state x="5057" y="523" key="run.anything.popup" timestamp="1595215928544">
       <screen x="3440" y="0" width="3840" height="2160" />
     </state>
     <state x="5057" y="523" key="run.anything.popup/3440.0.3840.2160/0.205.3440.1440@3440.0.3840.2160" timestamp="1595215928544" />
-    <state x="5057" y="738" width="672" height="676" key="search.everywhere.popup" timestamp="1595392821639">
+    <state x="5057" y="738" width="672" height="676" key="search.everywhere.popup" timestamp="1595404670226">
       <screen x="3440" y="0" width="3840" height="2160" />
     </state>
-    <state x="5057" y="738" width="672" height="676" key="search.everywhere.popup/3440.0.3840.2160/0.205.3440.1440@3440.0.3840.2160" timestamp="1595392821639" />
+    <state x="5057" y="738" width="672" height="676" key="search.everywhere.popup/3440.0.3840.2160/0.205.3440.1440@3440.0.3840.2160" timestamp="1595404670226" />
   </component>
 </project>
