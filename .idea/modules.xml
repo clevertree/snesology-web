@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/../snesology-old/.idea/snesology.iml" filepath="$PROJECT_DIR$/../snesology-old/.idea/snesology.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/snesology-web.iml" filepath="$PROJECT_DIR$/.idea/snesology-web.iml" />
     </modules>
   </component>
