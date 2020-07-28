@@ -3,11 +3,11 @@ import ReactDOM from 'react-dom';
 import * as serviceWorker from './audio-source/serviceWorker';
 
 import {IndexRouter} from "./audio-source/site";
-import {Library} from "./audio-source/song";
+import {LibraryIterator} from "./audio-source/song";
 
 // Set default library
 import DefaultLibraryData from "./snesology.library";
-Library.setDefaultLibrary(DefaultLibraryData);
+LibraryIterator.setDefaultLibrary(DefaultLibraryData);
 
 ReactDOM.render(
   <React.StrictMode>

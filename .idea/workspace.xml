@@ -2,10 +2,32 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="418d3449-0daa-4ba7-bfa9-b8c2fdc60e1f" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/audio-source/programs/effect/envelope/EnvelopeEffect.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/audio-source/programs/effect/envelope/render/EnvelopeEffectRenderer.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/audio-source/programs/effect/envelope/render/EnvelopeEffectRenderer.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/audio-source/programs/effect/envelope/render/EnvelopeEffectRendererBase.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/audio-source" beforeDir="false" afterPath="$PROJECT_DIR$/src/audio-source" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/audio-source/common/program/ProgramLoader.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/audio-source/common/program/ProgramLoader.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/audio-source/composer/ASComposerActions.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/audio-source/composer/ASComposerActions.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/audio-source/composer/ASComposerBase.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/audio-source/composer/ASComposerBase.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/audio-source/composer/ASComposerPlayback.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/audio-source/composer/ASComposerPlayback.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/audio-source/composer/program/browser/ASCPresetBrowser.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/audio-source/composer/program/browser/ASCPresetBrowser.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/audio-source/composer/program/renderer/ASCProgramRendererBase.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/audio-source/composer/program/renderer/ASCProgramRendererBase.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/audio-source/composer/track/container/ASCTracksContainerBase.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/audio-source/composer/track/container/ASCTracksContainerBase.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/audio-source/programs/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/audio-source/programs/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/audio-source/programs/polyphony/PolyphonyInstrument.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/audio-source/programs/polyphony/PolyphonyInstrument.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/audio-source/programs/polyphony/render/PolyphonyInstrumentRenderer.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/audio-source/programs/polyphony/render/PolyphonyInstrumentRenderer.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/audio-source/programs/polyphony/render/PolyphonyInstrumentRendererBase.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/audio-source/programs/polyphony/render/PolyphonyInstrumentRendererBase.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/audio-source/programs/voice/audiobuffer/render/AudioBufferInstrumentRenderer.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/audio-source/programs/voice/audiobuffer/render/AudioBufferInstrumentRenderer.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/audio-source/programs/voice/oscillator/render/OscillatorInstrumentRenderer.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/audio-source/programs/voice/oscillator/render/OscillatorInstrumentRenderer.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/audio-source/song/Song.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/audio-source/song/Song.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/audio-source/song/file/FileSupport.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/audio-source/song/file/FileSupport.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/audio-source/song/file/MIDIFileSupport.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/audio-source/song/file/MIDIFileSupport.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/audio-source/song/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/audio-source/song/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/audio-source/song/library/Library.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/audio-source/song/library/LibraryIterator.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,7 +66,8 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/samples" />
+    <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="TEXT" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/assets/files" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -54,11 +77,11 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/assets/files" />
+      <recent name="$PROJECT_DIR$/src/audio-source/programs/effect/envelope" />
+      <recent name="$PROJECT_DIR$/src/audio-source/song/file" />
       <recent name="$PROJECT_DIR$/src/samples" />
       <recent name="$PROJECT_DIR$/src/samples/snes/sets" />
-      <recent name="$PROJECT_DIR$/src/samples/snes" />
-      <recent name="$PROJECT_DIR$/src/samples/snes/ffvi" />
-      <recent name="$PROJECT_DIR$/src" />
     </key>
     <key name="es6.move.members.recent.items">
       <recent name="$PROJECT_DIR$/src/components/menu/dropdown/DropDownOptionProcessor.js" />
@@ -144,6 +167,13 @@
       <workItem from="1595010149798" duration="14385000" />
       <workItem from="1595293995821" duration="18110000" />
       <workItem from="1595394437503" duration="3452000" />
+      <workItem from="1595442424846" duration="10557000" />
+      <workItem from="1595475245407" duration="6689000" />
+      <workItem from="1595607469892" duration="6066000" />
+      <workItem from="1595812787555" duration="1033000" />
+      <workItem from="1595896508158" duration="2379000" />
+      <workItem from="1595912870877" duration="585000" />
+      <workItem from="1595913462629" duration="3387000" />
     </task>
     <servers />
   </component>
@@ -167,18 +197,18 @@
       <screen x="3440" y="0" width="3840" height="2160" />
     </state>
     <state x="4851" y="750" key="#com.intellij.execution.impl.EditConfigurationsDialog/3440.0.3840.2160/0.205.3440.1440@3440.0.3840.2160" timestamp="1595293288426" />
-    <state x="5104" y="894" width="568" height="396" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1592421651116">
+    <state x="5104" y="894" width="615" height="396" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1595629627680">
       <screen x="3440" y="0" width="3840" height="2160" />
     </state>
-    <state x="5104" y="894" width="568" height="396" key="#com.intellij.fileTypes.FileTypeChooser/3440.0.3840.2160/0.205.3440.1440@3440.0.3840.2160" timestamp="1592421651116" />
+    <state x="5104" y="894" width="615" height="396" key="#com.intellij.fileTypes.FileTypeChooser/3440.0.3840.2160/0.205.3440.1440@3440.0.3840.2160" timestamp="1595629627680" />
     <state x="5055" y="777" width="666" height="631" key="#run_build" timestamp="1595293299180">
       <screen x="3440" y="0" width="3840" height="2160" />
     </state>
     <state x="5055" y="777" width="666" height="631" key="#run_build/3440.0.3840.2160/0.205.3440.1440@3440.0.3840.2160" timestamp="1595293299180" />
-    <state x="5151" y="837" key="#xdebugger.evaluate" timestamp="1594234654674">
+    <state x="5151" y="837" key="#xdebugger.evaluate" timestamp="1595451390828">
       <screen x="3440" y="0" width="3840" height="2160" />
     </state>
-    <state x="5151" y="837" key="#xdebugger.evaluate/3440.0.3840.2160/0.205.3440.1440@3440.0.3840.2160" timestamp="1594234654674" />
+    <state x="5151" y="837" key="#xdebugger.evaluate/3440.0.3840.2160/0.205.3440.1440@3440.0.3840.2160" timestamp="1595451390828" />
     <state width="557" height="506" key="DebuggerActiveHint" timestamp="1595390035286">
       <screen x="3440" y="0" width="3840" height="2160" />
     </state>
@@ -187,70 +217,70 @@
       <screen x="3440" y="0" width="3840" height="2160" />
     </state>
     <state x="5171" y="835" width="424" height="513" key="FileChooserDialogImpl/3440.0.3840.2160/0.205.3440.1440@3440.0.3840.2160" timestamp="1595302266992" />
-    <state width="1383" height="1982" key="GridCell.Tab.0.bottom" timestamp="1595395268491">
+    <state width="1383" height="1982" key="GridCell.Tab.0.bottom" timestamp="1595913640018">
       <screen x="3440" y="0" width="3840" height="2160" />
     </state>
-    <state width="1383" height="1982" key="GridCell.Tab.0.bottom/3440.0.3840.2160/0.205.3440.1440@3440.0.3840.2160" timestamp="1595395268491" />
-    <state width="1383" height="1982" key="GridCell.Tab.0.center" timestamp="1595395268490">
+    <state width="1383" height="1982" key="GridCell.Tab.0.bottom/3440.0.3840.2160/0.205.3440.1440@3440.0.3840.2160" timestamp="1595913640018" />
+    <state width="1383" height="1982" key="GridCell.Tab.0.center" timestamp="1595913640018">
       <screen x="3440" y="0" width="3840" height="2160" />
     </state>
-    <state width="1383" height="1982" key="GridCell.Tab.0.center/3440.0.3840.2160/0.205.3440.1440@3440.0.3840.2160" timestamp="1595395268490" />
-    <state width="1383" height="1982" key="GridCell.Tab.0.left" timestamp="1595395268490">
+    <state width="1383" height="1982" key="GridCell.Tab.0.center/3440.0.3840.2160/0.205.3440.1440@3440.0.3840.2160" timestamp="1595913640018" />
+    <state width="1383" height="1982" key="GridCell.Tab.0.left" timestamp="1595913640018">
       <screen x="3440" y="0" width="3840" height="2160" />
     </state>
-    <state width="1383" height="1982" key="GridCell.Tab.0.left/3440.0.3840.2160/0.205.3440.1440@3440.0.3840.2160" timestamp="1595395268490" />
-    <state width="1383" height="1982" key="GridCell.Tab.0.right" timestamp="1595395268491">
+    <state width="1383" height="1982" key="GridCell.Tab.0.left/3440.0.3840.2160/0.205.3440.1440@3440.0.3840.2160" timestamp="1595913640018" />
+    <state width="1383" height="1982" key="GridCell.Tab.0.right" timestamp="1595913640018">
       <screen x="3440" y="0" width="3840" height="2160" />
     </state>
-    <state width="1383" height="1982" key="GridCell.Tab.0.right/3440.0.3840.2160/0.205.3440.1440@3440.0.3840.2160" timestamp="1595395268491" />
-    <state width="1383" height="1982" key="GridCell.Tab.1.bottom" timestamp="1595392409598">
+    <state width="1383" height="1982" key="GridCell.Tab.0.right/3440.0.3840.2160/0.205.3440.1440@3440.0.3840.2160" timestamp="1595913640018" />
+    <state width="1383" height="1982" key="GridCell.Tab.1.bottom" timestamp="1595913640018">
       <screen x="3440" y="0" width="3840" height="2160" />
     </state>
-    <state width="1383" height="1982" key="GridCell.Tab.1.bottom/3440.0.3840.2160/0.205.3440.1440@3440.0.3840.2160" timestamp="1595392409598" />
-    <state width="1383" height="1982" key="GridCell.Tab.1.center" timestamp="1595392409597">
+    <state width="1383" height="1982" key="GridCell.Tab.1.bottom/3440.0.3840.2160/0.205.3440.1440@3440.0.3840.2160" timestamp="1595913640018" />
+    <state width="1383" height="1982" key="GridCell.Tab.1.center" timestamp="1595913640018">
       <screen x="3440" y="0" width="3840" height="2160" />
     </state>
-    <state width="1383" height="1982" key="GridCell.Tab.1.center/3440.0.3840.2160/0.205.3440.1440@3440.0.3840.2160" timestamp="1595392409597" />
-    <state width="1383" height="1982" key="GridCell.Tab.1.left" timestamp="1595392409597">
+    <state width="1383" height="1982" key="GridCell.Tab.1.center/3440.0.3840.2160/0.205.3440.1440@3440.0.3840.2160" timestamp="1595913640018" />
+    <state width="1383" height="1982" key="GridCell.Tab.1.left" timestamp="1595913640018">
       <screen x="3440" y="0" width="3840" height="2160" />
     </state>
-    <state width="1383" height="1982" key="GridCell.Tab.1.left/3440.0.3840.2160/0.205.3440.1440@3440.0.3840.2160" timestamp="1595392409597" />
-    <state width="1383" height="1982" key="GridCell.Tab.1.right" timestamp="1595392409597">
+    <state width="1383" height="1982" key="GridCell.Tab.1.left/3440.0.3840.2160/0.205.3440.1440@3440.0.3840.2160" timestamp="1595913640018" />
+    <state width="1383" height="1982" key="GridCell.Tab.1.right" timestamp="1595913640018">
       <screen x="3440" y="0" width="3840" height="2160" />
     </state>
-    <state width="1383" height="1982" key="GridCell.Tab.1.right/3440.0.3840.2160/0.205.3440.1440@3440.0.3840.2160" timestamp="1595392409597" />
-    <state width="1383" height="1982" key="GridCell.Tab.2.bottom" timestamp="1595392409598">
+    <state width="1383" height="1982" key="GridCell.Tab.1.right/3440.0.3840.2160/0.205.3440.1440@3440.0.3840.2160" timestamp="1595913640018" />
+    <state width="1383" height="1982" key="GridCell.Tab.2.bottom" timestamp="1595913640018">
       <screen x="3440" y="0" width="3840" height="2160" />
     </state>
-    <state width="1383" height="1982" key="GridCell.Tab.2.bottom/3440.0.3840.2160/0.205.3440.1440@3440.0.3840.2160" timestamp="1595392409598" />
-    <state width="1383" height="1982" key="GridCell.Tab.2.center" timestamp="1595392409598">
+    <state width="1383" height="1982" key="GridCell.Tab.2.bottom/3440.0.3840.2160/0.205.3440.1440@3440.0.3840.2160" timestamp="1595913640018" />
+    <state width="1383" height="1982" key="GridCell.Tab.2.center" timestamp="1595913640018">
       <screen x="3440" y="0" width="3840" height="2160" />
     </state>
-    <state width="1383" height="1982" key="GridCell.Tab.2.center/3440.0.3840.2160/0.205.3440.1440@3440.0.3840.2160" timestamp="1595392409598" />
-    <state width="1383" height="1982" key="GridCell.Tab.2.left" timestamp="1595392409598">
+    <state width="1383" height="1982" key="GridCell.Tab.2.center/3440.0.3840.2160/0.205.3440.1440@3440.0.3840.2160" timestamp="1595913640018" />
+    <state width="1383" height="1982" key="GridCell.Tab.2.left" timestamp="1595913640018">
       <screen x="3440" y="0" width="3840" height="2160" />
     </state>
-    <state width="1383" height="1982" key="GridCell.Tab.2.left/3440.0.3840.2160/0.205.3440.1440@3440.0.3840.2160" timestamp="1595392409598" />
-    <state width="1383" height="1982" key="GridCell.Tab.2.right" timestamp="1595392409598">
+    <state width="1383" height="1982" key="GridCell.Tab.2.left/3440.0.3840.2160/0.205.3440.1440@3440.0.3840.2160" timestamp="1595913640018" />
+    <state width="1383" height="1982" key="GridCell.Tab.2.right" timestamp="1595913640018">
       <screen x="3440" y="0" width="3840" height="2160" />
     </state>
-    <state width="1383" height="1982" key="GridCell.Tab.2.right/3440.0.3840.2160/0.205.3440.1440@3440.0.3840.2160" timestamp="1595392409598" />
-    <state width="1383" height="1982" key="GridCell.Tab.3.bottom" timestamp="1594853875575">
+    <state width="1383" height="1982" key="GridCell.Tab.2.right/3440.0.3840.2160/0.205.3440.1440@3440.0.3840.2160" timestamp="1595913640018" />
+    <state width="1383" height="1982" key="GridCell.Tab.3.bottom" timestamp="1595913640018">
       <screen x="3440" y="0" width="3840" height="2160" />
     </state>
-    <state width="1383" height="1982" key="GridCell.Tab.3.bottom/3440.0.3840.2160/0.205.3440.1440@3440.0.3840.2160" timestamp="1594853875575" />
-    <state width="1383" height="1982" key="GridCell.Tab.3.center" timestamp="1594853875575">
+    <state width="1383" height="1982" key="GridCell.Tab.3.bottom/3440.0.3840.2160/0.205.3440.1440@3440.0.3840.2160" timestamp="1595913640018" />
+    <state width="1383" height="1982" key="GridCell.Tab.3.center" timestamp="1595913640018">
       <screen x="3440" y="0" width="3840" height="2160" />
     </state>
-    <state width="1383" height="1982" key="GridCell.Tab.3.center/3440.0.3840.2160/0.205.3440.1440@3440.0.3840.2160" timestamp="1594853875575" />
-    <state width="1383" height="1982" key="GridCell.Tab.3.left" timestamp="1594853875575">
+    <state width="1383" height="1982" key="GridCell.Tab.3.center/3440.0.3840.2160/0.205.3440.1440@3440.0.3840.2160" timestamp="1595913640018" />
+    <state width="1383" height="1982" key="GridCell.Tab.3.left" timestamp="1595913640018">
       <screen x="3440" y="0" width="3840" height="2160" />
     </state>
-    <state width="1383" height="1982" key="GridCell.Tab.3.left/3440.0.3840.2160/0.205.3440.1440@3440.0.3840.2160" timestamp="1594853875575" />
-    <state width="1383" height="1982" key="GridCell.Tab.3.right" timestamp="1594853875575">
+    <state width="1383" height="1982" key="GridCell.Tab.3.left/3440.0.3840.2160/0.205.3440.1440@3440.0.3840.2160" timestamp="1595913640018" />
+    <state width="1383" height="1982" key="GridCell.Tab.3.right" timestamp="1595913640018">
       <screen x="3440" y="0" width="3840" height="2160" />
     </state>
-    <state width="1383" height="1982" key="GridCell.Tab.3.right/3440.0.3840.2160/0.205.3440.1440@3440.0.3840.2160" timestamp="1594853875575" />
+    <state width="1383" height="1982" key="GridCell.Tab.3.right/3440.0.3840.2160/0.205.3440.1440@3440.0.3840.2160" timestamp="1595913640018" />
     <state width="1886" height="1067" key="XDebugger.FullValuePopup" timestamp="1595393306203">
       <screen x="3440" y="0" width="3840" height="2160" />
     </state>
@@ -263,25 +293,37 @@
       <screen x="3440" y="0" width="3840" height="2160" />
     </state>
     <state x="4921" y="707" width="934" height="770" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/3440.0.3840.2160/0.205.3440.1440@3440.0.3840.2160" timestamp="1594241296974" />
-    <state x="5164" y="1007" width="448" height="170" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1594961687605">
+    <state x="5164" y="1007" width="458" height="170" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1595463501752">
       <screen x="3440" y="0" width="3840" height="2160" />
     </state>
-    <state x="5164" y="1007" width="448" height="170" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/3440.0.3840.2160/0.205.3440.1440@3440.0.3840.2160" timestamp="1594961687605" />
+    <state x="5164" y="1007" width="458" height="170" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/3440.0.3840.2160/0.205.3440.1440@3440.0.3840.2160" timestamp="1595463501752" />
     <state x="4921" y="804" width="934" height="576" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1595219277892">
       <screen x="3440" y="0" width="3840" height="2160" />
     </state>
     <state x="4921" y="804" width="934" height="576" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/3440.0.3840.2160/0.205.3440.1440@3440.0.3840.2160" timestamp="1595219277892" />
-    <state x="5084" y="834" width="1251" height="933" key="find.popup" timestamp="1595404655920">
+    <state x="5103" y="847" width="1251" height="933" key="find.popup" timestamp="1595916828543">
       <screen x="3440" y="0" width="3840" height="2160" />
     </state>
-    <state x="5084" y="834" width="1251" height="933" key="find.popup/3440.0.3840.2160/0.205.3440.1440@3440.0.3840.2160" timestamp="1595404655920" />
-    <state x="5057" y="523" key="run.anything.popup" timestamp="1595215928544">
+    <state x="5103" y="847" width="1251" height="933" key="find.popup/3440.0.3840.2160/0.205.3440.1440@3440.0.3840.2160" timestamp="1595916828543" />
+    <state x="5057" y="523" key="run.anything.popup" timestamp="1595464679209">
       <screen x="3440" y="0" width="3840" height="2160" />
     </state>
-    <state x="5057" y="523" key="run.anything.popup/3440.0.3840.2160/0.205.3440.1440@3440.0.3840.2160" timestamp="1595215928544" />
-    <state x="5057" y="738" width="672" height="676" key="search.everywhere.popup" timestamp="1595404670226">
+    <state x="5057" y="523" key="run.anything.popup/3440.0.3840.2160/0.205.3440.1440@3440.0.3840.2160" timestamp="1595464679209" />
+    <state x="5057" y="738" width="672" height="676" key="search.everywhere.popup" timestamp="1595916778843">
       <screen x="3440" y="0" width="3840" height="2160" />
     </state>
-    <state x="5057" y="738" width="672" height="676" key="search.everywhere.popup/3440.0.3840.2160/0.205.3440.1440@3440.0.3840.2160" timestamp="1595404670226" />
+    <state x="5057" y="738" width="672" height="676" key="search.everywhere.popup/3440.0.3840.2160/0.205.3440.1440@3440.0.3840.2160" timestamp="1595916778843" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/src/audio-source/programs/effect/envelope/EnvelopeEffect.js</url>
+          <line>25</line>
+          <properties lambdaOrdinal="-1" />
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>

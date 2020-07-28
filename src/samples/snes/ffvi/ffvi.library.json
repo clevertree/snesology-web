@@ -1,5 +1,6 @@
 { "title": "Final Fantasy VI",
   "urlPrefix": "samples/ffvi/",
+  "defaultAHDSR": [0, 0, 0, 0, 200],
   "presets": [
     { "title": "acoustic_bass",
       "voices": [{ "url": "acoustic_bass.wav", "root": "C5", "loop": [30174, 41868] }]

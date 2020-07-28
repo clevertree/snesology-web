@@ -5,7 +5,7 @@ const SNESLibraryIndex = {
 	baseURL: "torrent://a31531cc4c064024f2e00ad8d869d8aa2129c3c6/",
 	// libraryFile: "library.json",
 	title: 'SNES Libraries',
-	libraries: () => {
+	libraries: function() {
 		return [
 			new SNESLibrary(require('./ffvi/ffvi.library.json'))
 		]
@@ -23,31 +23,60 @@ class SNESLibrary {
 
 	get title() { return this.data.title; }
 
-	presets(programClassFilter) {
+	presets() {
 		const presets = this.data.presets.map(presetData => {
+			let presetAHDSR = this.data.defaultAHDSR;
 			const presetConfig = Object.assign({}, presetData);
-			if(presetData.tags)
-				presetConfig.tags = presetData.tags;
-			presetConfig.voices = presetData.voices.map(sampleData => ['AudioBufferInstrument', Object.assign({}, sampleData, {
-				url: SNESLibraryIndex.baseURL + this.data.urlPrefix + sampleData.url,
-			})])
-			return ['PolyphonyInstrument', presetConfig];
+			if(presetConfig.ahdsr)
+				presetAHDSR = presetConfig.ahdsr;
+			delete presetConfig.ahdsr;
+
+			presetConfig.voices = presetData.voices.map(sampleData => {
+				const voiceConfig = Object.assign({}, sampleData, {
+					url: SNESLibraryIndex.baseURL + this.data.urlPrefix + sampleData.url,
+				});
+
+				if (Array.isArray(voiceConfig.loop)) {
+					voiceConfig.loopStart = voiceConfig.loop[0];
+					voiceConfig.loopEnd = voiceConfig.loop[1];
+					voiceConfig.loop = true;
+				}
+				const voice = ['AudioBuffer', voiceConfig];
+
+				let voiceAHDSR = presetAHDSR;
+				if(voiceConfig.ahdsr)
+					voiceAHDSR = voiceConfig.ahdsr;
+				delete voiceConfig.ahdsr;
+				const [attack, hold, decay, sustain, release] = voiceAHDSR;
+				const envConfig = {
+					voice,
+					attack, hold, decay, sustain, release
+				};
+				Object.keys(envConfig).forEach(key => {
+					if(!envConfig[key])
+						delete envConfig[key];
+				})
+
+				return ['Envelope', envConfig];
+			})
+			return ['Polyphony', presetConfig];
 		});
 
-		// console.log('presets', presets);
-		switch(programClassFilter) {
-			default:
-				case 'PolyphonyInstrument':
-			return presets
+		return presets;
 
-		case 'AudioBufferInstrument':
-			const voices = [];
-			presets.forEach(presetData => {
-				presetData.voices.forEach(voicePreset => {
-					voices.push(voicePreset);
-				})
-			});
-			return voices;
-		}
+		// // console.log('presets', presets);
+		// switch(programClassFilter) {
+		// 	default:
+		// 		case 'polyphony':
+		//
+		// case 'buffer':
+		// 	const voices = [];
+		// 	presets.forEach(presetData => {
+		// 		presetData.voices.forEach(voicePreset => {
+		// 			voices.push(voicePreset);
+		// 		})
+		// 	});
+		// 	return voices;
+		// }
 	}
 }
