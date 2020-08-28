@@ -1,4 +1,4 @@
-import FileService from "../../../song/file/FileService";
+import FileService from "../../../song/file/service/FileService";
 
 class SPCPlayerSynthesizer {
 

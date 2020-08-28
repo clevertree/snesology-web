@@ -3,8 +3,8 @@ import SNESLibraryIndex from "./samples/snes/snes.library"
 
 export default {
   title: 'SNESology Index',
-  libraries: [
-    ASDefaultLibrary,
-    SNESLibraryIndex
-  ]
+  libraries: function* () {
+    yield ASDefaultLibrary;
+    yield SNESLibraryIndex;
+  },
 }
