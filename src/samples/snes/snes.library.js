@@ -41,11 +41,16 @@ class SNESLibrary {
 					voiceConfig.loopEnd = voiceConfig.loop[1];
 					voiceConfig.loop = true;
 				}
+				if (voiceConfig.alias) {
+					voiceConfig.range = [voiceConfig.alias, voiceConfig.alias];
+					delete voiceConfig.alias;
+				}
 
 				let voiceAHDSR = presetAHDSR;
-				if (voiceConfig.ahdsr)
+				if (voiceConfig.ahdsr) {
 					voiceAHDSR = voiceConfig.ahdsr;
-				delete voiceConfig.ahdsr;
+					delete voiceConfig.ahdsr;
+				}
 				const [attack, hold, decay, sustain, release] = voiceAHDSR;
 				const envConfig = {
 					attack, hold, decay, sustain, release
