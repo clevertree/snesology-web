@@ -42,7 +42,8 @@ class SNESLibrary {
 					voiceConfig.loop = true;
 				}
 				if (voiceConfig.alias) {
-					voiceConfig.range = [voiceConfig.alias, voiceConfig.alias];
+					voiceConfig.rangeStart = voiceConfig.alias;
+					voiceConfig.rangeEnd = voiceConfig.alias;
 					delete voiceConfig.alias;
 				}
 

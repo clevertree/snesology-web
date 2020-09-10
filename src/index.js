@@ -2,7 +2,7 @@ import React from 'react';
 import ReactDOM from 'react-dom';
 import * as serviceWorker from './audio-source/serviceWorker';
 
-import {IndexRouter} from "./audio-source/site";
+import {IndexRouter} from "./audio-source/server";
 import {LibraryProcessor} from "./audio-source/song";
 
 // Set default library
