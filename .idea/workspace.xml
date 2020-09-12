@@ -2,35 +2,18 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="418d3449-0daa-4ba7-bfa9-b8c2fdc60e1f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/audio-source/components/input-text/ASUIInputTextArea.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/audio-source/composer/modal/ASComposerLoginSuccessModal.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/audio-source/composer/modal/ASComposerPublishModal.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/audio-source/composer/modal/ASComposerPublishSuccessModal.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/audio-source/composer/modal/ASComposerRegistrationModal.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/audio-source/composer/modal/ASComposerRegistrationSuccessModal.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/audio-source/server/api/ServerSongAPI.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/audio-source/server/client/ClientUserAPI.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/scripts/startServer.js" beforeDir="false" afterPath="$PROJECT_DIR$/scripts/startServer.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/audio-source" beforeDir="false" afterPath="$PROJECT_DIR$/src/audio-source" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/audio-source/components/form/assets/ASUIFormMessage.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/audio-source/components/form/assets/ASUIFormMessage.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/audio-source/components/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/audio-source/components/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/audio-source/components/modal/assets/ASUIModal.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/audio-source/components/modal/assets/ASUIModal.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/audio-source/composer/ASComposerActions.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/audio-source/composer/ASComposerActions.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/audio-source/composer/ASComposerBase.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/audio-source/composer/ASComposerBase.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/audio-source/composer/ASComposerMenu.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/audio-source/composer/ASComposerMenu.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/audio-source/composer/ASComposerRenderer.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/audio-source/composer/ASComposerRenderer.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/audio-source/composer/container/assets/ASComposerContainer.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/audio-source/composer/container/assets/ASComposerContainer.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/audio-source/composer/panel/ASComposerSessionPanel.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/audio-source/composer/modal/ASComposerLoginModal.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/audio-source/components/form/ASUIForm.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/audio-source/components/form/ASUIForm.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/audio-source/composer/modal/ASComposerPublishModal.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/audio-source/composer/modal/ASComposerPublishModal.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/audio-source/server/.server.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/audio-source/server/.server.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/audio-source/server/Server.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/audio-source/server/Server.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/audio-source/server/api/UserAPI.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/audio-source/server/api/ServerUserAPI.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/audio-source/server/client/ClientUserSession.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/audio-source/server/client/ServerUser.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/audio-source/server/client/ServerUser.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/audio-source/server/api/ServerSongAPI.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/audio-source/server/song/ServerSongAPI.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/audio-source/server/api/ServerUserAPI.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/audio-source/server/user/ServerUserAPI.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/audio-source/server/client/ClientUserAPI.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/audio-source/server/client/ClientUserAPI.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/audio-source/server/client/ServerUser.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/audio-source/server/user/ServerUser.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/audio-source/server/client/ServerUserSession.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/audio-source/song/values/Values.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/audio-source/song/values/Values.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -84,12 +67,12 @@
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/audio-source/server/api" />
+      <recent name="$PROJECT_DIR$/src/audio-source/components/input-text" />
       <recent name="$PROJECT_DIR$/src/audio-source/composer/modal" />
-      <recent name="$PROJECT_DIR$/src/audio-source/server" />
-      <recent name="$PROJECT_DIR$/src/audio-source/song/values" />
-      <recent name="$PROJECT_DIR$/src/audio-source/song" />
-      <recent name="$PROJECT_DIR$/src/audio-source/song/instruction" />
+      <recent name="$PROJECT_DIR$/src/audio-source/components" />
+      <recent name="$PROJECT_DIR$/src/audio-source/components/form/assets" />
     </key>
     <key name="es6.move.members.recent.items">
       <recent name="$PROJECT_DIR$/src/audio-source/server/client/ServerUser.js" />
@@ -98,15 +81,15 @@
       <recent name="$PROJECT_DIR$/src/audio-source/server/api/UserAPI.js" />
       <recent name="$PROJECT_DIR$/src/audio-source/common/state/StateManager.js" />
     </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/src/audio-source/server/api" />
-      <recent name="$PROJECT_DIR$/src/audio-source/components/input-text" />
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/audio-source/server/song/" />
+      <recent name="$PROJECT_DIR$/src/audio-source/server/song" />
+      <recent name="$PROJECT_DIR$/src/audio-source/server/user" />
       <recent name="$PROJECT_DIR$/src/audio-source/composer/modal" />
-      <recent name="$PROJECT_DIR$/src/audio-source/components" />
-      <recent name="$PROJECT_DIR$/src/audio-source/components/form/assets" />
+      <recent name="$PROJECT_DIR$/src/audio-source/server" />
     </key>
   </component>
-  <component name="RunManager" selected="npm.start-server">
+  <component name="RunManager" selected="Node.js.startServer.js">
     <configuration name="index.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/audio-source-web/build/index.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
@@ -264,6 +247,7 @@
       <workItem from="1599784062435" duration="599000" />
       <workItem from="1599787359993" duration="11938000" />
       <workItem from="1599840304348" duration="8325000" />
+      <workItem from="1599929148477" duration="7329000" />
     </task>
     <servers />
   </component>
@@ -311,54 +295,54 @@
       <screen x="3440" y="0" width="3840" height="2160" />
     </state>
     <state x="5171" y="835" width="424" height="513" key="FileChooserDialogImpl/3440.0.3840.2160/0.205.3440.1440@3440.0.3840.2160" timestamp="1595302266992" />
-    <state width="978" height="1982" key="GridCell.Tab.0.bottom" timestamp="1599895999330">
+    <state width="978" height="1982" key="GridCell.Tab.0.bottom" timestamp="1599940751603">
       <screen x="3440" y="0" width="3840" height="2160" />
     </state>
-    <state width="978" height="1982" key="GridCell.Tab.0.bottom/3440.0.3840.2160/0.205.3440.1440@3440.0.3840.2160" timestamp="1599895999330" />
-    <state width="978" height="1982" key="GridCell.Tab.0.center" timestamp="1599895999330">
+    <state width="978" height="1982" key="GridCell.Tab.0.bottom/3440.0.3840.2160/0.205.3440.1440@3440.0.3840.2160" timestamp="1599940751603" />
+    <state width="978" height="1982" key="GridCell.Tab.0.center" timestamp="1599940751603">
       <screen x="3440" y="0" width="3840" height="2160" />
     </state>
-    <state width="978" height="1982" key="GridCell.Tab.0.center/3440.0.3840.2160/0.205.3440.1440@3440.0.3840.2160" timestamp="1599895999330" />
-    <state width="978" height="1982" key="GridCell.Tab.0.left" timestamp="1599895999330">
+    <state width="978" height="1982" key="GridCell.Tab.0.center/3440.0.3840.2160/0.205.3440.1440@3440.0.3840.2160" timestamp="1599940751603" />
+    <state width="978" height="1982" key="GridCell.Tab.0.left" timestamp="1599940751603">
       <screen x="3440" y="0" width="3840" height="2160" />
     </state>
-    <state width="978" height="1982" key="GridCell.Tab.0.left/3440.0.3840.2160/0.205.3440.1440@3440.0.3840.2160" timestamp="1599895999330" />
-    <state width="978" height="1982" key="GridCell.Tab.0.right" timestamp="1599895999330">
+    <state width="978" height="1982" key="GridCell.Tab.0.left/3440.0.3840.2160/0.205.3440.1440@3440.0.3840.2160" timestamp="1599940751603" />
+    <state width="978" height="1982" key="GridCell.Tab.0.right" timestamp="1599940751603">
       <screen x="3440" y="0" width="3840" height="2160" />
     </state>
-    <state width="978" height="1982" key="GridCell.Tab.0.right/3440.0.3840.2160/0.205.3440.1440@3440.0.3840.2160" timestamp="1599895999330" />
-    <state width="1199" height="1982" key="GridCell.Tab.1.bottom" timestamp="1599779579517">
+    <state width="978" height="1982" key="GridCell.Tab.0.right/3440.0.3840.2160/0.205.3440.1440@3440.0.3840.2160" timestamp="1599940751603" />
+    <state width="1199" height="1982" key="GridCell.Tab.1.bottom" timestamp="1599940397018">
       <screen x="3440" y="0" width="3840" height="2160" />
     </state>
-    <state width="1199" height="1982" key="GridCell.Tab.1.bottom/3440.0.3840.2160/0.205.3440.1440@3440.0.3840.2160" timestamp="1599779579517" />
-    <state width="1199" height="1982" key="GridCell.Tab.1.center" timestamp="1599779579517">
+    <state width="1199" height="1982" key="GridCell.Tab.1.bottom/3440.0.3840.2160/0.205.3440.1440@3440.0.3840.2160" timestamp="1599940397018" />
+    <state width="1199" height="1982" key="GridCell.Tab.1.center" timestamp="1599940397018">
       <screen x="3440" y="0" width="3840" height="2160" />
     </state>
-    <state width="1199" height="1982" key="GridCell.Tab.1.center/3440.0.3840.2160/0.205.3440.1440@3440.0.3840.2160" timestamp="1599779579517" />
-    <state width="1199" height="1982" key="GridCell.Tab.1.left" timestamp="1599779579517">
+    <state width="1199" height="1982" key="GridCell.Tab.1.center/3440.0.3840.2160/0.205.3440.1440@3440.0.3840.2160" timestamp="1599940397018" />
+    <state width="1199" height="1982" key="GridCell.Tab.1.left" timestamp="1599940397018">
       <screen x="3440" y="0" width="3840" height="2160" />
     </state>
-    <state width="1199" height="1982" key="GridCell.Tab.1.left/3440.0.3840.2160/0.205.3440.1440@3440.0.3840.2160" timestamp="1599779579517" />
-    <state width="1199" height="1982" key="GridCell.Tab.1.right" timestamp="1599779579517">
+    <state width="1199" height="1982" key="GridCell.Tab.1.left/3440.0.3840.2160/0.205.3440.1440@3440.0.3840.2160" timestamp="1599940397018" />
+    <state width="1199" height="1982" key="GridCell.Tab.1.right" timestamp="1599940397018">
       <screen x="3440" y="0" width="3840" height="2160" />
     </state>
-    <state width="1199" height="1982" key="GridCell.Tab.1.right/3440.0.3840.2160/0.205.3440.1440@3440.0.3840.2160" timestamp="1599779579517" />
-    <state width="1199" height="1982" key="GridCell.Tab.2.bottom" timestamp="1599779579517">
+    <state width="1199" height="1982" key="GridCell.Tab.1.right/3440.0.3840.2160/0.205.3440.1440@3440.0.3840.2160" timestamp="1599940397018" />
+    <state width="1199" height="1982" key="GridCell.Tab.2.bottom" timestamp="1599940397018">
       <screen x="3440" y="0" width="3840" height="2160" />
     </state>
-    <state width="1199" height="1982" key="GridCell.Tab.2.bottom/3440.0.3840.2160/0.205.3440.1440@3440.0.3840.2160" timestamp="1599779579517" />
-    <state width="1199" height="1982" key="GridCell.Tab.2.center" timestamp="1599779579517">
+    <state width="1199" height="1982" key="GridCell.Tab.2.bottom/3440.0.3840.2160/0.205.3440.1440@3440.0.3840.2160" timestamp="1599940397018" />
+    <state width="1199" height="1982" key="GridCell.Tab.2.center" timestamp="1599940397018">
       <screen x="3440" y="0" width="3840" height="2160" />
     </state>
-    <state width="1199" height="1982" key="GridCell.Tab.2.center/3440.0.3840.2160/0.205.3440.1440@3440.0.3840.2160" timestamp="1599779579517" />
-    <state width="1199" height="1982" key="GridCell.Tab.2.left" timestamp="1599779579517">
+    <state width="1199" height="1982" key="GridCell.Tab.2.center/3440.0.3840.2160/0.205.3440.1440@3440.0.3840.2160" timestamp="1599940397018" />
+    <state width="1199" height="1982" key="GridCell.Tab.2.left" timestamp="1599940397018">
       <screen x="3440" y="0" width="3840" height="2160" />
     </state>
-    <state width="1199" height="1982" key="GridCell.Tab.2.left/3440.0.3840.2160/0.205.3440.1440@3440.0.3840.2160" timestamp="1599779579517" />
-    <state width="1199" height="1982" key="GridCell.Tab.2.right" timestamp="1599779579517">
+    <state width="1199" height="1982" key="GridCell.Tab.2.left/3440.0.3840.2160/0.205.3440.1440@3440.0.3840.2160" timestamp="1599940397018" />
+    <state width="1199" height="1982" key="GridCell.Tab.2.right" timestamp="1599940397018">
       <screen x="3440" y="0" width="3840" height="2160" />
     </state>
-    <state width="1199" height="1982" key="GridCell.Tab.2.right/3440.0.3840.2160/0.205.3440.1440@3440.0.3840.2160" timestamp="1599779579517" />
+    <state width="1199" height="1982" key="GridCell.Tab.2.right/3440.0.3840.2160/0.205.3440.1440@3440.0.3840.2160" timestamp="1599940397018" />
     <state width="1199" height="1982" key="GridCell.Tab.3.bottom" timestamp="1599779579517">
       <screen x="3440" y="0" width="3840" height="2160" />
     </state>
@@ -407,18 +391,18 @@
       <screen x="3440" y="0" width="3840" height="2160" />
     </state>
     <state x="3507" y="27" width="3064" height="2091" key="dock-window-1/3440.0.3840.2160/0.205.3440.1440@3440.0.3840.2160" timestamp="1597078716746" />
-    <state x="5105" y="864" width="1251" height="1023" key="find.popup" timestamp="1599896022986">
+    <state x="5105" y="864" width="1251" height="1023" key="find.popup" timestamp="1599940379915">
       <screen x="3440" y="0" width="3840" height="2160" />
     </state>
-    <state x="5105" y="864" width="1251" height="1023" key="find.popup/3440.0.3840.2160/0.205.3440.1440@3440.0.3840.2160" timestamp="1599896022986" />
-    <state x="5057" y="523" key="run.anything.popup" timestamp="1599793223460">
+    <state x="5105" y="864" width="1251" height="1023" key="find.popup/3440.0.3840.2160/0.205.3440.1440@3440.0.3840.2160" timestamp="1599940379915" />
+    <state x="5057" y="523" key="run.anything.popup" timestamp="1599934582868">
       <screen x="3440" y="0" width="3840" height="2160" />
     </state>
-    <state x="5057" y="523" key="run.anything.popup/3440.0.3840.2160/0.205.3440.1440@3440.0.3840.2160" timestamp="1599793223460" />
-    <state x="5057" y="738" width="672" height="676" key="search.everywhere.popup" timestamp="1599896080855">
+    <state x="5057" y="523" key="run.anything.popup/3440.0.3840.2160/0.205.3440.1440@3440.0.3840.2160" timestamp="1599934582868" />
+    <state x="5057" y="738" width="672" height="676" key="search.everywhere.popup" timestamp="1599940337685">
       <screen x="3440" y="0" width="3840" height="2160" />
     </state>
-    <state x="5057" y="738" width="672" height="676" key="search.everywhere.popup/3440.0.3840.2160/0.205.3440.1440@3440.0.3840.2160" timestamp="1599896080855" />
+    <state x="5057" y="738" width="672" height="676" key="search.everywhere.popup/3440.0.3840.2160/0.205.3440.1440@3440.0.3840.2160" timestamp="1599940337685" />
   </component>
   <component name="XDebuggerManager">
     <watches-manager>

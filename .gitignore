@@ -22,5 +22,6 @@ npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
 
-# Private Files
+# Public/Private Files
 /private
+/public/u
