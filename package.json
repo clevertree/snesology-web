@@ -27,6 +27,7 @@
     "react-native-web": "^0.12.3",
     "react-router-dom": "^5.2.0",
     "react-scripts": "3.4.1",
+    "sanitize-html": "^1.27.4",
     "sass": "^1.26.10",
     "typescript": "^3.9.6",
     "webtorrent": "^0.108.6"

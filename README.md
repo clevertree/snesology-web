@@ -7,10 +7,6 @@ The SNESology Project allows anyone with a web browser to compose and share orig
 This DAW will focus on the original chiptune sound and allow users to create, edit, and publish their own songs, as well as view the 'source' of anyone else's published song. 
 
 
-### Console Music
-
-The only way to play
-
 ### Project Goals
 
 *   Create music from any browser. No software to install.

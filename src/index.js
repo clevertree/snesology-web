@@ -5,13 +5,16 @@ import * as serviceWorker from './audio-source/serviceWorker';
 import {IndexRouter} from "./audio-source/server";
 import {LibraryProcessor} from "./audio-source/song";
 
+import {pageList} from "./pages/";
+
 // Set default library
 import DefaultLibraryData from "./snesology.library";
 LibraryProcessor.setDefaultLibrary(DefaultLibraryData);
 
+// TODO: switch css theme and header image
 ReactDOM.render(
   <React.StrictMode>
-      <IndexRouter />
+      <IndexRouter pageList={pageList} />
   </React.StrictMode>,
   document.getElementById('root')
 );
