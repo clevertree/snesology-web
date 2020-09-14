@@ -2,28 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="418d3449-0daa-4ba7-bfa9-b8c2fdc60e1f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/audio-source/server/song/ServerSong.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/audio-source/components/page/playlist/ASUIPagePlaylist.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/audio-source/components/page/playlist/ASUIPagePlaylist.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/audio-source/server/song/playlist/ClientPlaylistFile.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/audio-source/server/song/playlist/PlaylistFile.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/startServer.js" beforeDir="false" afterPath="$PROJECT_DIR$/scripts/startServer.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/audio-source" beforeDir="false" afterPath="$PROJECT_DIR$/src/audio-source" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/audio-source/components/anchor/ASUIAnchor.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/audio-source/components/anchor/ASUIAnchor.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/audio-source/components/form/ASUIForm.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/audio-source/components/form/ASUIForm.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/audio-source/composer/ASComposerRenderer.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/audio-source/composer/ASComposerRenderer.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/audio-source/composer/modal/ASComposerPublishModal.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/audio-source/composer/modal/ASComposerPublishModal.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/audio-source/composer/panel/ASComposerSongProgramsPanel.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/audio-source/composer/panel/ASComposerSongProgramsPanel.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/audio-source/composer/track/ASCTrack.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/audio-source/composer/track/ASCTrack.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/audio-source/composer/track/ASCTrack.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/audio-source/composer/track/ASCTrack.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/audio-source/composer/track/ASCTrackActions.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/audio-source/composer/track/ASCTrackActions.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/audio-source/composer/track/container/ASCTracksContainer.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/audio-source/composer/track/container/ASCTracksContainer.native.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/audio-source/composer/track/container/ASCTracksContainerBase.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/audio-source/composer/track/container/assets/ASCTracksContainer.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/audio-source/server/song/ClientSongAPI.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/audio-source/server/song/ClientSongAPI.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/audio-source/server/song/ServerPlaylistFile.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/audio-source/server/song/playlist/ServerPlaylistFile.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/audio-source/server/song/ServerSongAPI.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/audio-source/server/song/ServerSongAPI.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/audio-source/server/user/ServerUser.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/audio-source/server/user/ServerUser.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/audio-source/song/values/Values.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/audio-source/song/values/Values.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -66,7 +53,7 @@
     <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="TEXT" />
     <property name="javascript.nodejs.core.library.configured.version" value="11.10.0" />
     <property name="javascript.nodejs.core.library.typings.version" value="11.10.0" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/private/public/u/protricity" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/audio-source/server/pages/components" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -78,25 +65,25 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/audio-source/components/page" />
+      <recent name="$PROJECT_DIR$/src/audio-source/server/song/playlist" />
       <recent name="$PROJECT_DIR$/private/public/u/protricity/s" />
       <recent name="$PROJECT_DIR$/src/audio-source/components" />
       <recent name="$PROJECT_DIR$/src/audio-source/server/user" />
-      <recent name="$PROJECT_DIR$/src/audio-source/server/song/" />
-      <recent name="$PROJECT_DIR$/src/audio-source/server/song" />
     </key>
     <key name="es6.move.members.recent.items">
+      <recent name="$PROJECT_DIR$/src/audio-source/server/song/playlist/PlaylistFile.js" />
+      <recent name="$PROJECT_DIR$/src/audio-source/server/song/ClientPlaylistFile.js" />
       <recent name="$PROJECT_DIR$/src/audio-source/server/song/ServerSong.js" />
       <recent name="$PROJECT_DIR$/src/audio-source/server/client/ServerUser.js" />
       <recent name="$PROJECT_DIR$/src/audio-source/server/ServerConfig.js" />
-      <recent name="$PROJECT_DIR$/src/audio-source/components/input-text/ASUIInputPassword.js" />
-      <recent name="$PROJECT_DIR$/src/audio-source/server/api/UserAPI.js" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/private/public/u/protricity" />
-      <recent name="$PROJECT_DIR$/src/audio-source/components/page/assets" />
-      <recent name="$PROJECT_DIR$/src/audio-source/components/page" />
-      <recent name="$PROJECT_DIR$/src" />
-      <recent name="$PROJECT_DIR$/src/audio-source/server/song" />
+      <recent name="$PROJECT_DIR$/src/audio-source/server/pages/components" />
+      <recent name="$PROJECT_DIR$/src/audio-source/server/pages" />
+      <recent name="$PROJECT_DIR$/src/pages" />
+      <recent name="$PROJECT_DIR$/private/public/pls/feed" />
+      <recent name="$PROJECT_DIR$/private/public/pl" />
     </key>
   </component>
   <component name="RunManager" selected="npm.start">
@@ -259,6 +246,8 @@
       <workItem from="1599840304348" duration="8325000" />
       <workItem from="1599929148477" duration="8184000" />
       <workItem from="1599951571251" duration="19864000" />
+      <workItem from="1600021197439" duration="12623000" />
+      <workItem from="1600039069603" duration="4795000" />
     </task>
     <servers />
   </component>
@@ -282,10 +271,10 @@
       <screen x="3440" y="0" width="3840" height="2160" />
     </state>
     <state x="4851" y="750" width="1084" height="710" key="#com.intellij.execution.impl.EditConfigurationsDialog/3440.0.3840.2160/0.205.3440.1440@3440.0.3840.2160" timestamp="1599706952870" />
-    <state x="5104" y="894" width="609" height="396" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1599981622841">
+    <state x="5104" y="894" width="609" height="396" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1600040391764">
       <screen x="3440" y="0" width="3840" height="2160" />
     </state>
-    <state x="5104" y="894" width="609" height="396" key="#com.intellij.fileTypes.FileTypeChooser/3440.0.3840.2160/0.205.3440.1440@3440.0.3840.2160" timestamp="1599981622841" />
+    <state x="5104" y="894" width="609" height="396" key="#com.intellij.fileTypes.FileTypeChooser/3440.0.3840.2160/0.205.3440.1440@3440.0.3840.2160" timestamp="1600040391764" />
     <state x="5055" y="777" width="666" height="631" key="#run_build" timestamp="1595293299180">
       <screen x="3440" y="0" width="3840" height="2160" />
     </state>
@@ -298,30 +287,30 @@
       <screen x="3440" y="0" width="3840" height="2160" />
     </state>
     <state width="1072" height="506" key="DebuggerActiveHint/3440.0.3840.2160/0.205.3440.1440@3440.0.3840.2160" timestamp="1597359402519" />
-    <state x="3607" y="125" width="3573" height="1935" key="DiffContextDialog" timestamp="1599588959777">
+    <state x="3607" y="125" width="3573" height="1935" key="DiffContextDialog" timestamp="1600041304628">
       <screen x="3440" y="0" width="3840" height="2160" />
     </state>
-    <state x="3607" y="125" width="3573" height="1935" key="DiffContextDialog/3440.0.3840.2160/0.205.3440.1440@3440.0.3840.2160" timestamp="1599588959777" />
+    <state x="3607" y="125" width="3573" height="1935" key="DiffContextDialog/3440.0.3840.2160/0.205.3440.1440@3440.0.3840.2160" timestamp="1600041304628" />
     <state x="5171" y="835" width="424" height="513" key="FileChooserDialogImpl" timestamp="1595302266992">
       <screen x="3440" y="0" width="3840" height="2160" />
     </state>
     <state x="5171" y="835" width="424" height="513" key="FileChooserDialogImpl/3440.0.3840.2160/0.205.3440.1440@3440.0.3840.2160" timestamp="1595302266992" />
-    <state width="978" height="1982" key="GridCell.Tab.0.bottom" timestamp="1599983799875">
+    <state width="978" height="1982" key="GridCell.Tab.0.bottom" timestamp="1600041004214">
       <screen x="3440" y="0" width="3840" height="2160" />
     </state>
-    <state width="978" height="1982" key="GridCell.Tab.0.bottom/3440.0.3840.2160/0.205.3440.1440@3440.0.3840.2160" timestamp="1599983799875" />
-    <state width="978" height="1982" key="GridCell.Tab.0.center" timestamp="1599983799875">
+    <state width="978" height="1982" key="GridCell.Tab.0.bottom/3440.0.3840.2160/0.205.3440.1440@3440.0.3840.2160" timestamp="1600041004214" />
+    <state width="978" height="1982" key="GridCell.Tab.0.center" timestamp="1600041004214">
       <screen x="3440" y="0" width="3840" height="2160" />
     </state>
-    <state width="978" height="1982" key="GridCell.Tab.0.center/3440.0.3840.2160/0.205.3440.1440@3440.0.3840.2160" timestamp="1599983799875" />
-    <state width="978" height="1982" key="GridCell.Tab.0.left" timestamp="1599983799875">
+    <state width="978" height="1982" key="GridCell.Tab.0.center/3440.0.3840.2160/0.205.3440.1440@3440.0.3840.2160" timestamp="1600041004214" />
+    <state width="978" height="1982" key="GridCell.Tab.0.left" timestamp="1600041004214">
       <screen x="3440" y="0" width="3840" height="2160" />
     </state>
-    <state width="978" height="1982" key="GridCell.Tab.0.left/3440.0.3840.2160/0.205.3440.1440@3440.0.3840.2160" timestamp="1599983799875" />
-    <state width="978" height="1982" key="GridCell.Tab.0.right" timestamp="1599983799875">
+    <state width="978" height="1982" key="GridCell.Tab.0.left/3440.0.3840.2160/0.205.3440.1440@3440.0.3840.2160" timestamp="1600041004214" />
+    <state width="978" height="1982" key="GridCell.Tab.0.right" timestamp="1600041004214">
       <screen x="3440" y="0" width="3840" height="2160" />
     </state>
-    <state width="978" height="1982" key="GridCell.Tab.0.right/3440.0.3840.2160/0.205.3440.1440@3440.0.3840.2160" timestamp="1599983799875" />
+    <state width="978" height="1982" key="GridCell.Tab.0.right/3440.0.3840.2160/0.205.3440.1440@3440.0.3840.2160" timestamp="1600041004214" />
     <state width="1199" height="1982" key="GridCell.Tab.1.bottom" timestamp="1599940397018">
       <screen x="3440" y="0" width="3840" height="2160" />
     </state>
@@ -378,14 +367,14 @@
       <screen x="3440" y="0" width="3840" height="2160" />
     </state>
     <state width="1886" height="1067" key="XDebugger.FullValuePopup/3440.0.3840.2160/0.205.3440.1440@3440.0.3840.2160" timestamp="1597372353659" />
-    <state x="3607" y="125" width="3573" height="1935" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog" timestamp="1599588959777">
+    <state x="3607" y="125" width="3573" height="1935" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog" timestamp="1600041304628">
       <screen x="3440" y="0" width="3840" height="2160" />
     </state>
-    <state x="3607" y="125" width="3573" height="1935" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog/3440.0.3840.2160/0.205.3440.1440@3440.0.3840.2160" timestamp="1599588959777" />
-    <state x="3607" y="125" width="3553" height="1935" maximized="true" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1599892762618">
+    <state x="3607" y="125" width="3573" height="1935" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog/3440.0.3840.2160/0.205.3440.1440@3440.0.3840.2160" timestamp="1600041304628" />
+    <state x="3607" y="125" width="3533" height="1935" maximized="true" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1600041236452">
       <screen x="3440" y="0" width="3840" height="2160" />
     </state>
-    <state x="3607" y="125" width="3553" height="1935" maximized="true" key="com.intellij.history.integration.ui.views.FileHistoryDialog/3440.0.3840.2160/0.205.3440.1440@3440.0.3840.2160" timestamp="1599892762618" />
+    <state x="3607" y="125" width="3533" height="1935" maximized="true" key="com.intellij.history.integration.ui.views.FileHistoryDialog/3440.0.3840.2160/0.205.3440.1440@3440.0.3840.2160" timestamp="1600041236452" />
     <state x="4921" y="707" width="934" height="770" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1594241296974">
       <screen x="3440" y="0" width="3840" height="2160" />
     </state>
@@ -402,18 +391,18 @@
       <screen x="3440" y="0" width="3840" height="2160" />
     </state>
     <state x="3507" y="27" width="3064" height="2091" key="dock-window-1/3440.0.3840.2160/0.205.3440.1440@3440.0.3840.2160" timestamp="1597078716746" />
-    <state x="5104" y="866" width="1251" height="1023" key="find.popup" timestamp="1599983847640">
+    <state x="5104" y="866" width="1251" height="1023" key="find.popup" timestamp="1600043804297">
       <screen x="3440" y="0" width="3840" height="2160" />
     </state>
-    <state x="5104" y="866" width="1251" height="1023" key="find.popup/3440.0.3840.2160/0.205.3440.1440@3440.0.3840.2160" timestamp="1599983847640" />
-    <state x="5057" y="523" key="run.anything.popup" timestamp="1599965295748">
+    <state x="5104" y="866" width="1251" height="1023" key="find.popup/3440.0.3840.2160/0.205.3440.1440@3440.0.3840.2160" timestamp="1600043804297" />
+    <state x="5057" y="523" key="run.anything.popup" timestamp="1600033398510">
       <screen x="3440" y="0" width="3840" height="2160" />
     </state>
-    <state x="5057" y="523" key="run.anything.popup/3440.0.3840.2160/0.205.3440.1440@3440.0.3840.2160" timestamp="1599965295748" />
-    <state x="5057" y="738" width="672" height="676" key="search.everywhere.popup" timestamp="1599971846169">
+    <state x="5057" y="523" key="run.anything.popup/3440.0.3840.2160/0.205.3440.1440@3440.0.3840.2160" timestamp="1600033398510" />
+    <state x="5057" y="738" width="672" height="676" key="search.everywhere.popup" timestamp="1600040749700">
       <screen x="3440" y="0" width="3840" height="2160" />
     </state>
-    <state x="5057" y="738" width="672" height="676" key="search.everywhere.popup/3440.0.3840.2160/0.205.3440.1440@3440.0.3840.2160" timestamp="1599971846169" />
+    <state x="5057" y="738" width="672" height="676" key="search.everywhere.popup/3440.0.3840.2160/0.205.3440.1440@3440.0.3840.2160" timestamp="1600040749700" />
   </component>
   <component name="XDebuggerManager">
     <watches-manager>

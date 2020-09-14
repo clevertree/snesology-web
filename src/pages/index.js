@@ -1,6 +1,6 @@
 import DemoPage from "./DemoPage";
 
-import HomePage from "./HomePage.md";
+import HomePage from "./HomePage";
 import AboutPage from "./AboutPage.md";
 import DownloadsPage from "./DownloadsPage.md";
 import ContactPage from "./ContactPage.md";
