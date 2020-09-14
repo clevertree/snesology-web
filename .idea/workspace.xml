@@ -2,15 +2,22 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="418d3449-0daa-4ba7-bfa9-b8c2fdc60e1f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/audio-source/components/page/playlist/ASUIPagePlaylist.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/audio-source/components/page/playlist/ASUIPagePlaylist.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/audio-source/server/song/playlist/ClientPlaylistFile.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/audio-source/server/song/playlist/PlaylistFile.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/audio-source/server/pages/SongPage.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dictionaries/ari.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dictionaries/ari.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/scripts/startServer.js" beforeDir="false" afterPath="$PROJECT_DIR$/scripts/startServer.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/audio-source" beforeDir="false" afterPath="$PROJECT_DIR$/src/audio-source" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/audio-source/server/song/ServerPlaylistFile.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/audio-source/server/song/playlist/ServerPlaylistFile.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/audio-source/components/clickable/ASUIClickableBase.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/audio-source/components/clickable/ASUIClickableBase.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/audio-source/components/menu/context/ASUIContextMenuContext.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/audio-source/components/menu/context/ASUIContextMenuContext.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/audio-source/components/page/playlist/ASUIPagePlaylist.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/audio-source/components/page/playlist/ASUIPagePlaylist.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/audio-source/components/page/playlist/ASUIPagePlaylist.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/audio-source/components/page/playlist/ASUIPagePlaylist.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/audio-source/programs/voice/audiobuffer/loader/AudioBufferLoader.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/audio-source/programs/voice/audiobuffer/loader/AudioBufferLoader.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/audio-source/programs/voice/oscillator/loader/PeriodicWaveLoader.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/audio-source/programs/voice/oscillator/loader/PeriodicWaveLoader.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/audio-source/server/pages/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/audio-source/server/pages/index.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/audio-source/server/song/ServerSongAPI.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/audio-source/server/song/ServerSongAPI.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/audio-source/server/song/playlist/PlaylistFile.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/audio-source/song/playlist/PlaylistFile.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/audio-source/server/song/playlist/ServerPlaylistFile.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/audio-source/server/song/playlist/ServerPlaylistFile.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/audio-source/server/user/ClientUserAPI.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/audio-source/server/user/ClientUserAPI.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/audio-source/song/Song.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/audio-source/song/Song.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/audio-source/song/file/service/FileService.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/audio-source/song/file/service/FileService.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,7 +60,7 @@
     <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="TEXT" />
     <property name="javascript.nodejs.core.library.configured.version" value="11.10.0" />
     <property name="javascript.nodejs.core.library.typings.version" value="11.10.0" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/audio-source/server/pages/components" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/audio-source/server/pages" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -65,11 +72,11 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/audio-source/song/playlist" />
       <recent name="$PROJECT_DIR$/src/audio-source/components/page" />
       <recent name="$PROJECT_DIR$/src/audio-source/server/song/playlist" />
       <recent name="$PROJECT_DIR$/private/public/u/protricity/s" />
       <recent name="$PROJECT_DIR$/src/audio-source/components" />
-      <recent name="$PROJECT_DIR$/src/audio-source/server/user" />
     </key>
     <key name="es6.move.members.recent.items">
       <recent name="$PROJECT_DIR$/src/audio-source/server/song/playlist/PlaylistFile.js" />
@@ -79,11 +86,11 @@
       <recent name="$PROJECT_DIR$/src/audio-source/server/ServerConfig.js" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/src/audio-source/server/pages/components" />
       <recent name="$PROJECT_DIR$/src/audio-source/server/pages" />
+      <recent name="$PROJECT_DIR$/private/public/u/protricity" />
+      <recent name="$PROJECT_DIR$/src/audio-source/server/pages/components" />
       <recent name="$PROJECT_DIR$/src/pages" />
       <recent name="$PROJECT_DIR$/private/public/pls/feed" />
-      <recent name="$PROJECT_DIR$/private/public/pl" />
     </key>
   </component>
   <component name="RunManager" selected="npm.start">
@@ -247,7 +254,7 @@
       <workItem from="1599929148477" duration="8184000" />
       <workItem from="1599951571251" duration="19864000" />
       <workItem from="1600021197439" duration="12623000" />
-      <workItem from="1600039069603" duration="4795000" />
+      <workItem from="1600039069603" duration="10123000" />
     </task>
     <servers />
   </component>
@@ -295,22 +302,22 @@
       <screen x="3440" y="0" width="3840" height="2160" />
     </state>
     <state x="5171" y="835" width="424" height="513" key="FileChooserDialogImpl/3440.0.3840.2160/0.205.3440.1440@3440.0.3840.2160" timestamp="1595302266992" />
-    <state width="978" height="1982" key="GridCell.Tab.0.bottom" timestamp="1600041004214">
+    <state width="978" height="1982" key="GridCell.Tab.0.bottom" timestamp="1600061706446">
       <screen x="3440" y="0" width="3840" height="2160" />
     </state>
-    <state width="978" height="1982" key="GridCell.Tab.0.bottom/3440.0.3840.2160/0.205.3440.1440@3440.0.3840.2160" timestamp="1600041004214" />
-    <state width="978" height="1982" key="GridCell.Tab.0.center" timestamp="1600041004214">
+    <state width="978" height="1982" key="GridCell.Tab.0.bottom/3440.0.3840.2160/0.205.3440.1440@3440.0.3840.2160" timestamp="1600061706446" />
+    <state width="978" height="1982" key="GridCell.Tab.0.center" timestamp="1600061706446">
       <screen x="3440" y="0" width="3840" height="2160" />
     </state>
-    <state width="978" height="1982" key="GridCell.Tab.0.center/3440.0.3840.2160/0.205.3440.1440@3440.0.3840.2160" timestamp="1600041004214" />
-    <state width="978" height="1982" key="GridCell.Tab.0.left" timestamp="1600041004214">
+    <state width="978" height="1982" key="GridCell.Tab.0.center/3440.0.3840.2160/0.205.3440.1440@3440.0.3840.2160" timestamp="1600061706446" />
+    <state width="978" height="1982" key="GridCell.Tab.0.left" timestamp="1600061706446">
       <screen x="3440" y="0" width="3840" height="2160" />
     </state>
-    <state width="978" height="1982" key="GridCell.Tab.0.left/3440.0.3840.2160/0.205.3440.1440@3440.0.3840.2160" timestamp="1600041004214" />
-    <state width="978" height="1982" key="GridCell.Tab.0.right" timestamp="1600041004214">
+    <state width="978" height="1982" key="GridCell.Tab.0.left/3440.0.3840.2160/0.205.3440.1440@3440.0.3840.2160" timestamp="1600061706446" />
+    <state width="978" height="1982" key="GridCell.Tab.0.right" timestamp="1600061706446">
       <screen x="3440" y="0" width="3840" height="2160" />
     </state>
-    <state width="978" height="1982" key="GridCell.Tab.0.right/3440.0.3840.2160/0.205.3440.1440@3440.0.3840.2160" timestamp="1600041004214" />
+    <state width="978" height="1982" key="GridCell.Tab.0.right/3440.0.3840.2160/0.205.3440.1440@3440.0.3840.2160" timestamp="1600061706446" />
     <state width="1199" height="1982" key="GridCell.Tab.1.bottom" timestamp="1599940397018">
       <screen x="3440" y="0" width="3840" height="2160" />
     </state>
@@ -391,18 +398,18 @@
       <screen x="3440" y="0" width="3840" height="2160" />
     </state>
     <state x="3507" y="27" width="3064" height="2091" key="dock-window-1/3440.0.3840.2160/0.205.3440.1440@3440.0.3840.2160" timestamp="1597078716746" />
-    <state x="5104" y="866" width="1251" height="1023" key="find.popup" timestamp="1600043804297">
+    <state x="5104" y="866" width="1251" height="1023" key="find.popup" timestamp="1600062197643">
       <screen x="3440" y="0" width="3840" height="2160" />
     </state>
-    <state x="5104" y="866" width="1251" height="1023" key="find.popup/3440.0.3840.2160/0.205.3440.1440@3440.0.3840.2160" timestamp="1600043804297" />
+    <state x="5104" y="866" width="1251" height="1023" key="find.popup/3440.0.3840.2160/0.205.3440.1440@3440.0.3840.2160" timestamp="1600062197643" />
     <state x="5057" y="523" key="run.anything.popup" timestamp="1600033398510">
       <screen x="3440" y="0" width="3840" height="2160" />
     </state>
     <state x="5057" y="523" key="run.anything.popup/3440.0.3840.2160/0.205.3440.1440@3440.0.3840.2160" timestamp="1600033398510" />
-    <state x="5057" y="738" width="672" height="676" key="search.everywhere.popup" timestamp="1600040749700">
+    <state x="5057" y="738" width="672" height="676" key="search.everywhere.popup" timestamp="1600061521022">
       <screen x="3440" y="0" width="3840" height="2160" />
     </state>
-    <state x="5057" y="738" width="672" height="676" key="search.everywhere.popup/3440.0.3840.2160/0.205.3440.1440@3440.0.3840.2160" timestamp="1600040749700" />
+    <state x="5057" y="738" width="672" height="676" key="search.everywhere.popup/3440.0.3840.2160/0.205.3440.1440@3440.0.3840.2160" timestamp="1600061521022" />
   </component>
   <component name="XDebuggerManager">
     <watches-manager>

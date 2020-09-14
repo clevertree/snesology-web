@@ -25,3 +25,4 @@ yarn-error.log*
 # Public/Private Files
 /private
 /public/u
+/public/pls
