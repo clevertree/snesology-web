@@ -11,7 +11,7 @@ export default class DemoPage extends React.Component {
                     # Audio Source Composer Demo
                 `}/>
 
-                <ASComposer url="/user/protricity/song/Terra_MIDI"/>
+                <ASComposer url="/user/protricity/song/Terra_MIDI.json"/>
                 <ASUIMarkdown source={`
                     Menu->View->Enable Fullscreen to render in landscape mode.
                     

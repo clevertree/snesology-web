@@ -2,27 +2,19 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="418d3449-0daa-4ba7-bfa9-b8c2fdc60e1f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/audio-source/composer/modal/ASComposerLogoutModal.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/audio-source/server/pages/themes/DefaultPageTheme.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/startServer.js" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/audio-source" beforeDir="false" afterPath="$PROJECT_DIR$/src/audio-source" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/audio-source/components/page/ASUIPageContainer.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/audio-source/components/page/ASUIPageContainer.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/audio-source/components/page/ASUIPageHeader.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/audio-source/components/page/ASUIPageHeader.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/audio-source/components/page/assets/ASUIPage.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/audio-source/components/page/assets/ASUIPage.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/audio-source/components/page/assets/PageStyles.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/audio-source/components/page/assets/PageStyles.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/audio-source/components/page/assets/img/header.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/audio-source/server/pages/themes/img/header.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/audio-source/composer/ASComposerActions.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/audio-source/composer/ASComposerActions.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/audio-source/composer/ASComposerMenu.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/audio-source/composer/ASComposerMenu.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/audio-source/composer/ASComposerRenderer.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/audio-source/composer/ASComposerRenderer.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/audio-source/composer/modal/ASComposerLoginModal.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/audio-source/composer/modal/ASComposerLoginModal.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/audio-source/composer/modal/ASComposerLoginSuccessModal.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/audio-source/composer/modal/ASComposerMessageModal.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/audio-source/composer/modal/ASComposerPublishSuccessModal.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/audio-source/composer/modal/ASComposerPublishSuccessModal.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/audio-source/composer/modal/ASComposerRegistrationModal.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/audio-source/composer/modal/ASComposerRegistrationModal.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/audio-source/composer/modal/ASComposerRegistrationSuccessModal.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/audio-source/server/IndexRouter.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/audio-source/server/IndexRouter.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/audio-source/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/audio-source/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/audio-source/components/page/playlist/ASUIPagePlaylist.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/audio-source/components/page/playlist/ASUIPagePlaylist.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/audio-source/server/.server.json" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/audio-source/server/Server.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/audio-source/server/Server.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/audio-source/server/pages/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/audio-source/server/pages/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/audio-source/server/pages/AboutPage.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/audio-source/server/pages/AboutPage.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/audio-source/server/pages/SongPage.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/audio-source/server/pages/SongPage.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/audio-source/server/song/ClientSongAPI.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/audio-source/server/song/ClientSongAPI.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/audio-source/server/song/ServerSongAPI.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/audio-source/server/song/ServerSongAPI.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/audio-source/server/song/ServerSongFile.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/audio-source/server/song/ServerSongFile.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/audio-source/server/song/playlist/ServerPlaylistFile.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/audio-source/server/song/playlist/ServerPlaylistFile.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/audio-source/server/user/ClientUserAPI.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/audio-source/server/user/ClientUserAPI.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/audio-source/server/user/ServerUser.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/audio-source/server/user/ServerUser.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/audio-source/server/user/ServerUserAPI.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/audio-source/server/user/ServerUserAPI.js" afterDir="false" />
@@ -79,12 +71,12 @@
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/src/audio-source/server/pages/theme/" />
-      <recent name="$PROJECT_DIR$/src/audio-source/server/pages/theme" />
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/pages" />
       <recent name="$PROJECT_DIR$/src/audio-source/components/page/theme/default" />
-      <recent name="$PROJECT_DIR$/src/audio-source/song/playlist" />
-      <recent name="$PROJECT_DIR$/src/audio-source/components/page" />
+      <recent name="$PROJECT_DIR$/src/audio-source/composer/modal" />
+      <recent name="$PROJECT_DIR$/src/audio-source/server/pages" />
+      <recent name="$PROJECT_DIR$/src/audio-source/components/form" />
     </key>
     <key name="es6.move.members.recent.items">
       <recent name="$PROJECT_DIR$/src/audio-source/components/page/playlist/ASUIPagePlaylistEntry.js" />
@@ -93,15 +85,18 @@
       <recent name="$PROJECT_DIR$/src/audio-source/server/song/ServerSong.js" />
       <recent name="$PROJECT_DIR$/src/audio-source/server/client/ServerUser.js" />
     </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/src/pages" />
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src" />
+      <recent name="$PROJECT_DIR$/src/audio-source/server/pages/theme/" />
+      <recent name="$PROJECT_DIR$/src/audio-source/server/pages/theme" />
       <recent name="$PROJECT_DIR$/src/audio-source/components/page/theme/default" />
-      <recent name="$PROJECT_DIR$/src/audio-source/composer/modal" />
-      <recent name="$PROJECT_DIR$/src/audio-source/server/pages" />
-      <recent name="$PROJECT_DIR$/src/audio-source/components/form" />
+      <recent name="$PROJECT_DIR$/src/audio-source/song/playlist" />
     </key>
   </component>
-  <component name="RunManager" selected="npm.start">
+  <component name="RunManager" selected="npm.start-server">
+    <configuration name="index.html (1)" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/snesology-web/build/index.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
     <configuration name="index.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/audio-source-web/build/index.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
@@ -111,7 +106,7 @@
     <configuration name="download.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/src/samples/gm/fws/misk/download.js" working-dir="$PROJECT_DIR$/src/samples/gm/fws/misk">
       <method v="2" />
     </configuration>
-    <configuration name="startServer.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" node-parameters="-r esm" path-to-js-file="startServer.js" working-dir="$PROJECT_DIR$/scripts">
+    <configuration name="startServer.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" node-parameters="-r esm" path-to-js-file="$PROJECT_DIR$/src/startServer.js" working-dir="$PROJECT_DIR$/scripts">
       <method v="2" />
     </configuration>
     <configuration name="run build" type="js.build_tools.npm" nameIsGenerated="true">
@@ -150,6 +145,7 @@
     </configuration>
     <list>
       <item itemvalue="JavaScript Debug.index.html" />
+      <item itemvalue="JavaScript Debug.index.html (1)" />
       <item itemvalue="Node.js.download.js" />
       <item itemvalue="Node.js.Server.js" />
       <item itemvalue="Node.js.startServer.js" />
@@ -160,6 +156,7 @@
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="JavaScript Debug.index.html (1)" />
         <item itemvalue="Node.js.startServer.js" />
         <item itemvalue="Node.js.Server.js" />
         <item itemvalue="JavaScript Debug.index.html" />
@@ -265,6 +262,7 @@
       <workItem from="1600039069603" duration="10123000" />
       <workItem from="1600101586634" duration="16934000" />
       <workItem from="1600137592085" duration="5368000" />
+      <workItem from="1600196939968" duration="10476000" />
     </task>
     <servers />
   </component>
@@ -312,22 +310,26 @@
       <screen x="3440" y="0" width="3840" height="2160" />
     </state>
     <state x="5171" y="835" width="424" height="513" key="FileChooserDialogImpl/3440.0.3840.2160/0.205.3440.1440@3440.0.3840.2160" timestamp="1595302266992" />
-    <state width="978" height="1982" key="GridCell.Tab.0.bottom" timestamp="1600142147897">
+    <state x="3507" y="27" width="3773" height="2133" key="FileDocumentManager.FileCacheConflict" timestamp="1600212268388">
       <screen x="3440" y="0" width="3840" height="2160" />
     </state>
-    <state width="978" height="1982" key="GridCell.Tab.0.bottom/3440.0.3840.2160/0.205.3440.1440@3440.0.3840.2160" timestamp="1600142147897" />
-    <state width="978" height="1982" key="GridCell.Tab.0.center" timestamp="1600142147897">
+    <state x="3507" y="27" width="3773" height="2133" key="FileDocumentManager.FileCacheConflict/3440.0.3840.2160/0.205.3440.1440@3440.0.3840.2160" timestamp="1600212268388" />
+    <state width="978" height="1982" key="GridCell.Tab.0.bottom" timestamp="1600212088822">
       <screen x="3440" y="0" width="3840" height="2160" />
     </state>
-    <state width="978" height="1982" key="GridCell.Tab.0.center/3440.0.3840.2160/0.205.3440.1440@3440.0.3840.2160" timestamp="1600142147897" />
-    <state width="978" height="1982" key="GridCell.Tab.0.left" timestamp="1600142147897">
+    <state width="978" height="1982" key="GridCell.Tab.0.bottom/3440.0.3840.2160/0.205.3440.1440@3440.0.3840.2160" timestamp="1600212088822" />
+    <state width="978" height="1982" key="GridCell.Tab.0.center" timestamp="1600212088822">
       <screen x="3440" y="0" width="3840" height="2160" />
     </state>
-    <state width="978" height="1982" key="GridCell.Tab.0.left/3440.0.3840.2160/0.205.3440.1440@3440.0.3840.2160" timestamp="1600142147897" />
-    <state width="978" height="1982" key="GridCell.Tab.0.right" timestamp="1600142147897">
+    <state width="978" height="1982" key="GridCell.Tab.0.center/3440.0.3840.2160/0.205.3440.1440@3440.0.3840.2160" timestamp="1600212088822" />
+    <state width="978" height="1982" key="GridCell.Tab.0.left" timestamp="1600212088822">
       <screen x="3440" y="0" width="3840" height="2160" />
     </state>
-    <state width="978" height="1982" key="GridCell.Tab.0.right/3440.0.3840.2160/0.205.3440.1440@3440.0.3840.2160" timestamp="1600142147897" />
+    <state width="978" height="1982" key="GridCell.Tab.0.left/3440.0.3840.2160/0.205.3440.1440@3440.0.3840.2160" timestamp="1600212088822" />
+    <state width="978" height="1982" key="GridCell.Tab.0.right" timestamp="1600212088822">
+      <screen x="3440" y="0" width="3840" height="2160" />
+    </state>
+    <state width="978" height="1982" key="GridCell.Tab.0.right/3440.0.3840.2160/0.205.3440.1440@3440.0.3840.2160" timestamp="1600212088822" />
     <state width="1199" height="1982" key="GridCell.Tab.1.bottom" timestamp="1600128662378">
       <screen x="3440" y="0" width="3840" height="2160" />
     </state>
@@ -388,10 +390,10 @@
       <screen x="3440" y="0" width="3840" height="2160" />
     </state>
     <state x="3607" y="125" width="3573" height="1935" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog/3440.0.3840.2160/0.205.3440.1440@3440.0.3840.2160" timestamp="1600141461708" />
-    <state x="3607" y="125" width="3513" height="1935" maximized="true" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1600141461708">
+    <state x="3607" y="125" width="3513" height="1935" maximized="true" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1600207319236">
       <screen x="3440" y="0" width="3840" height="2160" />
     </state>
-    <state x="3607" y="125" width="3513" height="1935" maximized="true" key="com.intellij.history.integration.ui.views.FileHistoryDialog/3440.0.3840.2160/0.205.3440.1440@3440.0.3840.2160" timestamp="1600141461708" />
+    <state x="3607" y="125" width="3513" height="1935" maximized="true" key="com.intellij.history.integration.ui.views.FileHistoryDialog/3440.0.3840.2160/0.205.3440.1440@3440.0.3840.2160" timestamp="1600207319236" />
     <state x="4921" y="707" width="934" height="770" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1594241296974">
       <screen x="3440" y="0" width="3840" height="2160" />
     </state>
@@ -408,18 +410,18 @@
       <screen x="3440" y="0" width="3840" height="2160" />
     </state>
     <state x="3507" y="27" width="3064" height="2091" key="dock-window-1/3440.0.3840.2160/0.205.3440.1440@3440.0.3840.2160" timestamp="1597078716746" />
-    <state x="5104" y="866" width="1251" height="1023" key="find.popup" timestamp="1600143401866">
+    <state x="5104" y="866" width="1251" height="1023" key="find.popup" timestamp="1600212392415">
       <screen x="3440" y="0" width="3840" height="2160" />
     </state>
-    <state x="5104" y="866" width="1251" height="1023" key="find.popup/3440.0.3840.2160/0.205.3440.1440@3440.0.3840.2160" timestamp="1600143401866" />
+    <state x="5104" y="866" width="1251" height="1023" key="find.popup/3440.0.3840.2160/0.205.3440.1440@3440.0.3840.2160" timestamp="1600212392415" />
     <state x="5057" y="523" key="run.anything.popup" timestamp="1600120949184">
       <screen x="3440" y="0" width="3840" height="2160" />
     </state>
     <state x="5057" y="523" key="run.anything.popup/3440.0.3840.2160/0.205.3440.1440@3440.0.3840.2160" timestamp="1600120949184" />
-    <state x="5057" y="738" width="672" height="676" key="search.everywhere.popup" timestamp="1600143405063">
+    <state x="5057" y="738" width="672" height="676" key="search.everywhere.popup" timestamp="1600212469980">
       <screen x="3440" y="0" width="3840" height="2160" />
     </state>
-    <state x="5057" y="738" width="672" height="676" key="search.everywhere.popup/3440.0.3840.2160/0.205.3440.1440@3440.0.3840.2160" timestamp="1600143405063" />
+    <state x="5057" y="738" width="672" height="676" key="search.everywhere.popup/3440.0.3840.2160/0.205.3440.1440@3440.0.3840.2160" timestamp="1600212469980" />
   </component>
   <component name="XDebuggerManager">
     <watches-manager>
