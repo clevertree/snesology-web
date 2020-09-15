@@ -1,0 +1,131 @@
+
+div.asui-page-container.theme-snesology {
+    background-color: #95afc0;
+    /*margin: 1vw;*/
+    min-height: 100vh;
+    color: #BBB;
+
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+}
+
+
+div.asui-page-container.theme-snesology a:not(:hover) {
+    text-decoration: none;
+    color: white;
+
+}
+
+/** Header / Footer **/
+
+
+.theme-snesology div.asui-page-header > a.image {
+    height: 120px;
+    background: url("../../assets/logo/logo-header.png") no-repeat center;
+    background-size: 400px;
+}
+
+.theme-snesology div.asui-page-header > div.text,
+.theme-snesology div.asui-page-footer > div.text {
+    padding: 1vw;
+}
+
+
+.theme-snesology div.asui-page-header > div.links,
+.theme-snesology div.asui-page-footer > div.links {
+    display: flex;
+    justify-content: center;
+    background-color: #666;
+    padding: 0.2vw;
+    font-size: 4vw;
+}
+
+
+.theme-snesology div.asui-page-header > div.links > a,
+.theme-snesology div.asui-page-footer > div.links > a {
+    text-decoration: none;
+    display: block;
+    padding: 0.2vw 3vw;
+    margin: 0 1vw;
+    background-color: transparent;
+    border-radius: 1vw;
+    transition: background-color 0.3s;
+}
+.theme-snesology div.asui-page-header > div.links > a:hover,
+.theme-snesology div.asui-page-footer > div.links > a:hover {
+    background-color: #777;
+}
+.theme-snesology div.asui-page-header > div.links > a.selected,
+.theme-snesology div.asui-page-footer > div.links > a.selected {
+    background-color: #888;
+}
+
+
+@media only screen and (min-width: 468px) {
+    img.asui-page-header-image {
+        width: 468px;
+    }
+
+    .theme-snesology div.asui-page-header > div.links,
+    .theme-snesology div.asui-page-footer > div.links {
+        font-size: 18px;
+    }
+
+}
+
+
+/** Page Content **/
+
+.theme-snesology div.asui-page-content {
+    /*position: relative;*/
+    background-color: #535c68;
+    min-height: 50vh;
+    padding: 1vw;
+    max-width: 800px;
+    margin: 0 auto;
+}
+
+/** Page Paragraphs **/
+
+.theme-snesology div.asui-page-content > p {
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    text-indent: 12px;
+    text-align: justify;
+    padding: 0 1vw;
+}
+
+/** Page Images **/
+
+
+.theme-snesology div.asui-page-content > p > img,
+.theme-snesology div.asui-page-content > p > a > img {
+    display: flex;
+    max-width: 640px;
+    margin: 0 auto;
+}
+
+@media only screen and (max-width: 640px) {
+    .theme-snesology div.asui-page-content > p > img,
+    .theme-snesology div.asui-page-content > p > a > img {
+        width: 90vw;
+    }
+
+}
+
+/** Page Links **/
+
+.theme-snesology a {
+    color: #ffb046;
+    /*text-shadow: #000 1px 1px 1px;*/
+}
+
+
+
+/** Pre **/
+
+.theme-snesology div.asui-page-content > pre {
+    padding: 1em;
+    background-color: #222;
+    border-radius: 1em;
+}

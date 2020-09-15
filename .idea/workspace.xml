@@ -2,22 +2,30 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="418d3449-0daa-4ba7-bfa9-b8c2fdc60e1f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/audio-source/server/pages/SongPage.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dictionaries/ari.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dictionaries/ari.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/audio-source/composer/modal/ASComposerLogoutModal.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/audio-source/server/pages/themes/DefaultPageTheme.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/audio-source/components/clickable/ASUIClickableBase.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/audio-source/components/clickable/ASUIClickableBase.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/audio-source/components/menu/context/ASUIContextMenuContext.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/audio-source/components/menu/context/ASUIContextMenuContext.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/audio-source/components/page/playlist/ASUIPagePlaylist.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/audio-source/components/page/playlist/ASUIPagePlaylist.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/audio-source/components/page/playlist/ASUIPagePlaylist.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/audio-source/components/page/playlist/ASUIPagePlaylist.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/audio-source/programs/voice/audiobuffer/loader/AudioBufferLoader.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/audio-source/programs/voice/audiobuffer/loader/AudioBufferLoader.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/audio-source/programs/voice/oscillator/loader/PeriodicWaveLoader.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/audio-source/programs/voice/oscillator/loader/PeriodicWaveLoader.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/audio-source" beforeDir="false" afterPath="$PROJECT_DIR$/src/audio-source" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/audio-source/components/page/ASUIPageContainer.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/audio-source/components/page/ASUIPageContainer.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/audio-source/components/page/ASUIPageHeader.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/audio-source/components/page/ASUIPageHeader.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/audio-source/components/page/assets/ASUIPage.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/audio-source/components/page/assets/ASUIPage.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/audio-source/components/page/assets/PageStyles.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/audio-source/components/page/assets/PageStyles.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/audio-source/components/page/assets/img/header.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/audio-source/server/pages/themes/img/header.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/audio-source/composer/ASComposerActions.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/audio-source/composer/ASComposerActions.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/audio-source/composer/ASComposerMenu.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/audio-source/composer/ASComposerMenu.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/audio-source/composer/ASComposerRenderer.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/audio-source/composer/ASComposerRenderer.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/audio-source/composer/modal/ASComposerLoginModal.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/audio-source/composer/modal/ASComposerLoginModal.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/audio-source/composer/modal/ASComposerLoginSuccessModal.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/audio-source/composer/modal/ASComposerMessageModal.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/audio-source/composer/modal/ASComposerPublishSuccessModal.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/audio-source/composer/modal/ASComposerPublishSuccessModal.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/audio-source/composer/modal/ASComposerRegistrationModal.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/audio-source/composer/modal/ASComposerRegistrationModal.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/audio-source/composer/modal/ASComposerRegistrationSuccessModal.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/audio-source/server/IndexRouter.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/audio-source/server/IndexRouter.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/audio-source/server/Server.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/audio-source/server/Server.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/audio-source/server/pages/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/audio-source/server/pages/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/audio-source/server/song/ServerSongAPI.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/audio-source/server/song/ServerSongAPI.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/audio-source/server/song/playlist/PlaylistFile.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/audio-source/song/playlist/PlaylistFile.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/audio-source/server/song/playlist/ServerPlaylistFile.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/audio-source/server/song/playlist/ServerPlaylistFile.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/audio-source/server/user/ClientUserAPI.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/audio-source/server/user/ClientUserAPI.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/audio-source/song/Song.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/audio-source/song/Song.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/audio-source/song/file/service/FileService.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/audio-source/song/file/service/FileService.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/audio-source/server/user/ServerUser.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/audio-source/server/user/ServerUser.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/audio-source/server/user/ServerUserAPI.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/audio-source/server/user/ServerUserAPI.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,7 +68,7 @@
     <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="TEXT" />
     <property name="javascript.nodejs.core.library.configured.version" value="11.10.0" />
     <property name="javascript.nodejs.core.library.typings.version" value="11.10.0" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/audio-source/server/pages" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/pages" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -72,25 +80,25 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/audio-source/server/pages/theme/" />
+      <recent name="$PROJECT_DIR$/src/audio-source/server/pages/theme" />
+      <recent name="$PROJECT_DIR$/src/audio-source/components/page/theme/default" />
       <recent name="$PROJECT_DIR$/src/audio-source/song/playlist" />
       <recent name="$PROJECT_DIR$/src/audio-source/components/page" />
-      <recent name="$PROJECT_DIR$/src/audio-source/server/song/playlist" />
-      <recent name="$PROJECT_DIR$/private/public/u/protricity/s" />
-      <recent name="$PROJECT_DIR$/src/audio-source/components" />
     </key>
     <key name="es6.move.members.recent.items">
+      <recent name="$PROJECT_DIR$/src/audio-source/components/page/playlist/ASUIPagePlaylistEntry.js" />
       <recent name="$PROJECT_DIR$/src/audio-source/server/song/playlist/PlaylistFile.js" />
       <recent name="$PROJECT_DIR$/src/audio-source/server/song/ClientPlaylistFile.js" />
       <recent name="$PROJECT_DIR$/src/audio-source/server/song/ServerSong.js" />
       <recent name="$PROJECT_DIR$/src/audio-source/server/client/ServerUser.js" />
-      <recent name="$PROJECT_DIR$/src/audio-source/server/ServerConfig.js" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/src/audio-source/server/pages" />
-      <recent name="$PROJECT_DIR$/private/public/u/protricity" />
-      <recent name="$PROJECT_DIR$/src/audio-source/server/pages/components" />
       <recent name="$PROJECT_DIR$/src/pages" />
-      <recent name="$PROJECT_DIR$/private/public/pls/feed" />
+      <recent name="$PROJECT_DIR$/src/audio-source/components/page/theme/default" />
+      <recent name="$PROJECT_DIR$/src/audio-source/composer/modal" />
+      <recent name="$PROJECT_DIR$/src/audio-source/server/pages" />
+      <recent name="$PROJECT_DIR$/src/audio-source/components/form" />
     </key>
   </component>
   <component name="RunManager" selected="npm.start">
@@ -255,6 +263,8 @@
       <workItem from="1599951571251" duration="19864000" />
       <workItem from="1600021197439" duration="12623000" />
       <workItem from="1600039069603" duration="10123000" />
+      <workItem from="1600101586634" duration="16934000" />
+      <workItem from="1600137592085" duration="5368000" />
     </task>
     <servers />
   </component>
@@ -302,86 +312,86 @@
       <screen x="3440" y="0" width="3840" height="2160" />
     </state>
     <state x="5171" y="835" width="424" height="513" key="FileChooserDialogImpl/3440.0.3840.2160/0.205.3440.1440@3440.0.3840.2160" timestamp="1595302266992" />
-    <state width="978" height="1982" key="GridCell.Tab.0.bottom" timestamp="1600061706446">
+    <state width="978" height="1982" key="GridCell.Tab.0.bottom" timestamp="1600142147897">
       <screen x="3440" y="0" width="3840" height="2160" />
     </state>
-    <state width="978" height="1982" key="GridCell.Tab.0.bottom/3440.0.3840.2160/0.205.3440.1440@3440.0.3840.2160" timestamp="1600061706446" />
-    <state width="978" height="1982" key="GridCell.Tab.0.center" timestamp="1600061706446">
+    <state width="978" height="1982" key="GridCell.Tab.0.bottom/3440.0.3840.2160/0.205.3440.1440@3440.0.3840.2160" timestamp="1600142147897" />
+    <state width="978" height="1982" key="GridCell.Tab.0.center" timestamp="1600142147897">
       <screen x="3440" y="0" width="3840" height="2160" />
     </state>
-    <state width="978" height="1982" key="GridCell.Tab.0.center/3440.0.3840.2160/0.205.3440.1440@3440.0.3840.2160" timestamp="1600061706446" />
-    <state width="978" height="1982" key="GridCell.Tab.0.left" timestamp="1600061706446">
+    <state width="978" height="1982" key="GridCell.Tab.0.center/3440.0.3840.2160/0.205.3440.1440@3440.0.3840.2160" timestamp="1600142147897" />
+    <state width="978" height="1982" key="GridCell.Tab.0.left" timestamp="1600142147897">
       <screen x="3440" y="0" width="3840" height="2160" />
     </state>
-    <state width="978" height="1982" key="GridCell.Tab.0.left/3440.0.3840.2160/0.205.3440.1440@3440.0.3840.2160" timestamp="1600061706446" />
-    <state width="978" height="1982" key="GridCell.Tab.0.right" timestamp="1600061706446">
+    <state width="978" height="1982" key="GridCell.Tab.0.left/3440.0.3840.2160/0.205.3440.1440@3440.0.3840.2160" timestamp="1600142147897" />
+    <state width="978" height="1982" key="GridCell.Tab.0.right" timestamp="1600142147897">
       <screen x="3440" y="0" width="3840" height="2160" />
     </state>
-    <state width="978" height="1982" key="GridCell.Tab.0.right/3440.0.3840.2160/0.205.3440.1440@3440.0.3840.2160" timestamp="1600061706446" />
-    <state width="1199" height="1982" key="GridCell.Tab.1.bottom" timestamp="1599940397018">
+    <state width="978" height="1982" key="GridCell.Tab.0.right/3440.0.3840.2160/0.205.3440.1440@3440.0.3840.2160" timestamp="1600142147897" />
+    <state width="1199" height="1982" key="GridCell.Tab.1.bottom" timestamp="1600128662378">
       <screen x="3440" y="0" width="3840" height="2160" />
     </state>
-    <state width="1199" height="1982" key="GridCell.Tab.1.bottom/3440.0.3840.2160/0.205.3440.1440@3440.0.3840.2160" timestamp="1599940397018" />
-    <state width="1199" height="1982" key="GridCell.Tab.1.center" timestamp="1599940397018">
+    <state width="1199" height="1982" key="GridCell.Tab.1.bottom/3440.0.3840.2160/0.205.3440.1440@3440.0.3840.2160" timestamp="1600128662378" />
+    <state width="1199" height="1982" key="GridCell.Tab.1.center" timestamp="1600128662378">
       <screen x="3440" y="0" width="3840" height="2160" />
     </state>
-    <state width="1199" height="1982" key="GridCell.Tab.1.center/3440.0.3840.2160/0.205.3440.1440@3440.0.3840.2160" timestamp="1599940397018" />
-    <state width="1199" height="1982" key="GridCell.Tab.1.left" timestamp="1599940397018">
+    <state width="1199" height="1982" key="GridCell.Tab.1.center/3440.0.3840.2160/0.205.3440.1440@3440.0.3840.2160" timestamp="1600128662378" />
+    <state width="1199" height="1982" key="GridCell.Tab.1.left" timestamp="1600128662378">
       <screen x="3440" y="0" width="3840" height="2160" />
     </state>
-    <state width="1199" height="1982" key="GridCell.Tab.1.left/3440.0.3840.2160/0.205.3440.1440@3440.0.3840.2160" timestamp="1599940397018" />
-    <state width="1199" height="1982" key="GridCell.Tab.1.right" timestamp="1599940397018">
+    <state width="1199" height="1982" key="GridCell.Tab.1.left/3440.0.3840.2160/0.205.3440.1440@3440.0.3840.2160" timestamp="1600128662378" />
+    <state width="1199" height="1982" key="GridCell.Tab.1.right" timestamp="1600128662378">
       <screen x="3440" y="0" width="3840" height="2160" />
     </state>
-    <state width="1199" height="1982" key="GridCell.Tab.1.right/3440.0.3840.2160/0.205.3440.1440@3440.0.3840.2160" timestamp="1599940397018" />
-    <state width="1199" height="1982" key="GridCell.Tab.2.bottom" timestamp="1599940397018">
+    <state width="1199" height="1982" key="GridCell.Tab.1.right/3440.0.3840.2160/0.205.3440.1440@3440.0.3840.2160" timestamp="1600128662378" />
+    <state width="1199" height="1982" key="GridCell.Tab.2.bottom" timestamp="1600128657457">
       <screen x="3440" y="0" width="3840" height="2160" />
     </state>
-    <state width="1199" height="1982" key="GridCell.Tab.2.bottom/3440.0.3840.2160/0.205.3440.1440@3440.0.3840.2160" timestamp="1599940397018" />
-    <state width="1199" height="1982" key="GridCell.Tab.2.center" timestamp="1599940397018">
+    <state width="1199" height="1982" key="GridCell.Tab.2.bottom/3440.0.3840.2160/0.205.3440.1440@3440.0.3840.2160" timestamp="1600128657457" />
+    <state width="1199" height="1982" key="GridCell.Tab.2.center" timestamp="1600128657457">
       <screen x="3440" y="0" width="3840" height="2160" />
     </state>
-    <state width="1199" height="1982" key="GridCell.Tab.2.center/3440.0.3840.2160/0.205.3440.1440@3440.0.3840.2160" timestamp="1599940397018" />
-    <state width="1199" height="1982" key="GridCell.Tab.2.left" timestamp="1599940397018">
+    <state width="1199" height="1982" key="GridCell.Tab.2.center/3440.0.3840.2160/0.205.3440.1440@3440.0.3840.2160" timestamp="1600128657457" />
+    <state width="1199" height="1982" key="GridCell.Tab.2.left" timestamp="1600128657457">
       <screen x="3440" y="0" width="3840" height="2160" />
     </state>
-    <state width="1199" height="1982" key="GridCell.Tab.2.left/3440.0.3840.2160/0.205.3440.1440@3440.0.3840.2160" timestamp="1599940397018" />
-    <state width="1199" height="1982" key="GridCell.Tab.2.right" timestamp="1599940397018">
+    <state width="1199" height="1982" key="GridCell.Tab.2.left/3440.0.3840.2160/0.205.3440.1440@3440.0.3840.2160" timestamp="1600128657457" />
+    <state width="1199" height="1982" key="GridCell.Tab.2.right" timestamp="1600128657457">
       <screen x="3440" y="0" width="3840" height="2160" />
     </state>
-    <state width="1199" height="1982" key="GridCell.Tab.2.right/3440.0.3840.2160/0.205.3440.1440@3440.0.3840.2160" timestamp="1599940397018" />
-    <state width="1199" height="1982" key="GridCell.Tab.3.bottom" timestamp="1599779579517">
+    <state width="1199" height="1982" key="GridCell.Tab.2.right/3440.0.3840.2160/0.205.3440.1440@3440.0.3840.2160" timestamp="1600128657457" />
+    <state width="1199" height="1982" key="GridCell.Tab.3.bottom" timestamp="1600128657457">
       <screen x="3440" y="0" width="3840" height="2160" />
     </state>
-    <state width="1199" height="1982" key="GridCell.Tab.3.bottom/3440.0.3840.2160/0.205.3440.1440@3440.0.3840.2160" timestamp="1599779579517" />
-    <state width="1199" height="1982" key="GridCell.Tab.3.center" timestamp="1599779579517">
+    <state width="1199" height="1982" key="GridCell.Tab.3.bottom/3440.0.3840.2160/0.205.3440.1440@3440.0.3840.2160" timestamp="1600128657457" />
+    <state width="1199" height="1982" key="GridCell.Tab.3.center" timestamp="1600128657457">
       <screen x="3440" y="0" width="3840" height="2160" />
     </state>
-    <state width="1199" height="1982" key="GridCell.Tab.3.center/3440.0.3840.2160/0.205.3440.1440@3440.0.3840.2160" timestamp="1599779579517" />
-    <state width="1199" height="1982" key="GridCell.Tab.3.left" timestamp="1599779579517">
+    <state width="1199" height="1982" key="GridCell.Tab.3.center/3440.0.3840.2160/0.205.3440.1440@3440.0.3840.2160" timestamp="1600128657457" />
+    <state width="1199" height="1982" key="GridCell.Tab.3.left" timestamp="1600128657457">
       <screen x="3440" y="0" width="3840" height="2160" />
     </state>
-    <state width="1199" height="1982" key="GridCell.Tab.3.left/3440.0.3840.2160/0.205.3440.1440@3440.0.3840.2160" timestamp="1599779579517" />
-    <state width="1199" height="1982" key="GridCell.Tab.3.right" timestamp="1599779579517">
+    <state width="1199" height="1982" key="GridCell.Tab.3.left/3440.0.3840.2160/0.205.3440.1440@3440.0.3840.2160" timestamp="1600128657457" />
+    <state width="1199" height="1982" key="GridCell.Tab.3.right" timestamp="1600128657457">
       <screen x="3440" y="0" width="3840" height="2160" />
     </state>
-    <state width="1199" height="1982" key="GridCell.Tab.3.right/3440.0.3840.2160/0.205.3440.1440@3440.0.3840.2160" timestamp="1599779579517" />
+    <state width="1199" height="1982" key="GridCell.Tab.3.right/3440.0.3840.2160/0.205.3440.1440@3440.0.3840.2160" timestamp="1600128657457" />
     <state x="5122" y="826" width="540" height="524" key="StructurePopup" timestamp="1598220198855">
       <screen x="3440" y="0" width="3840" height="2160" />
     </state>
     <state x="5122" y="826" width="540" height="524" key="StructurePopup/3440.0.3840.2160/0.205.3440.1440@3440.0.3840.2160" timestamp="1598220198855" />
-    <state width="1886" height="1067" key="XDebugger.FullValuePopup" timestamp="1597372353659">
+    <state width="1886" height="1067" key="XDebugger.FullValuePopup" timestamp="1600128671346">
       <screen x="3440" y="0" width="3840" height="2160" />
     </state>
-    <state width="1886" height="1067" key="XDebugger.FullValuePopup/3440.0.3840.2160/0.205.3440.1440@3440.0.3840.2160" timestamp="1597372353659" />
-    <state x="3607" y="125" width="3573" height="1935" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog" timestamp="1600041304628">
+    <state width="1886" height="1067" key="XDebugger.FullValuePopup/3440.0.3840.2160/0.205.3440.1440@3440.0.3840.2160" timestamp="1600128671346" />
+    <state x="3607" y="125" width="3573" height="1935" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog" timestamp="1600141461708">
       <screen x="3440" y="0" width="3840" height="2160" />
     </state>
-    <state x="3607" y="125" width="3573" height="1935" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog/3440.0.3840.2160/0.205.3440.1440@3440.0.3840.2160" timestamp="1600041304628" />
-    <state x="3607" y="125" width="3533" height="1935" maximized="true" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1600041236452">
+    <state x="3607" y="125" width="3573" height="1935" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog/3440.0.3840.2160/0.205.3440.1440@3440.0.3840.2160" timestamp="1600141461708" />
+    <state x="3607" y="125" width="3513" height="1935" maximized="true" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1600141461708">
       <screen x="3440" y="0" width="3840" height="2160" />
     </state>
-    <state x="3607" y="125" width="3533" height="1935" maximized="true" key="com.intellij.history.integration.ui.views.FileHistoryDialog/3440.0.3840.2160/0.205.3440.1440@3440.0.3840.2160" timestamp="1600041236452" />
+    <state x="3607" y="125" width="3513" height="1935" maximized="true" key="com.intellij.history.integration.ui.views.FileHistoryDialog/3440.0.3840.2160/0.205.3440.1440@3440.0.3840.2160" timestamp="1600141461708" />
     <state x="4921" y="707" width="934" height="770" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1594241296974">
       <screen x="3440" y="0" width="3840" height="2160" />
     </state>
@@ -398,18 +408,18 @@
       <screen x="3440" y="0" width="3840" height="2160" />
     </state>
     <state x="3507" y="27" width="3064" height="2091" key="dock-window-1/3440.0.3840.2160/0.205.3440.1440@3440.0.3840.2160" timestamp="1597078716746" />
-    <state x="5104" y="866" width="1251" height="1023" key="find.popup" timestamp="1600062197643">
+    <state x="5104" y="866" width="1251" height="1023" key="find.popup" timestamp="1600143401866">
       <screen x="3440" y="0" width="3840" height="2160" />
     </state>
-    <state x="5104" y="866" width="1251" height="1023" key="find.popup/3440.0.3840.2160/0.205.3440.1440@3440.0.3840.2160" timestamp="1600062197643" />
-    <state x="5057" y="523" key="run.anything.popup" timestamp="1600033398510">
+    <state x="5104" y="866" width="1251" height="1023" key="find.popup/3440.0.3840.2160/0.205.3440.1440@3440.0.3840.2160" timestamp="1600143401866" />
+    <state x="5057" y="523" key="run.anything.popup" timestamp="1600120949184">
       <screen x="3440" y="0" width="3840" height="2160" />
     </state>
-    <state x="5057" y="523" key="run.anything.popup/3440.0.3840.2160/0.205.3440.1440@3440.0.3840.2160" timestamp="1600033398510" />
-    <state x="5057" y="738" width="672" height="676" key="search.everywhere.popup" timestamp="1600061521022">
+    <state x="5057" y="523" key="run.anything.popup/3440.0.3840.2160/0.205.3440.1440@3440.0.3840.2160" timestamp="1600120949184" />
+    <state x="5057" y="738" width="672" height="676" key="search.everywhere.popup" timestamp="1600143405063">
       <screen x="3440" y="0" width="3840" height="2160" />
     </state>
-    <state x="5057" y="738" width="672" height="676" key="search.everywhere.popup/3440.0.3840.2160/0.205.3440.1440@3440.0.3840.2160" timestamp="1600061521022" />
+    <state x="5057" y="738" width="672" height="676" key="search.everywhere.popup/3440.0.3840.2160/0.205.3440.1440@3440.0.3840.2160" timestamp="1600143405063" />
   </component>
   <component name="XDebuggerManager">
     <watches-manager>
