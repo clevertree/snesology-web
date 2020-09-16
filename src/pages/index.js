@@ -2,7 +2,6 @@ import DemoPage from "./DemoPage";
 
 import HomePage from "./HomePage";
 import AboutPage from "./AboutPage.md";
-import DownloadsPage from "./DownloadsPage.md";
 import ContactPage from "./ContactPage.md";
 import UserPage from "../audio-source/server/pages/UserPage";
 import SongPage from "../audio-source/server/pages/SongPage";
