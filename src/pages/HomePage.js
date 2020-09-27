@@ -54,7 +54,7 @@ Talk about SNESology and other stuff.
 *   Try to include a [screen-shot](https://northatlanticlcc.org/help/how-to-save-a-screenshot-of-a-webpage) of the issue.
 *   Optionally describe your issue in the #bugs channel on [Discord](https://discord.gg/6NDH7sU).
 
-### Want to contribute?
+### Contribute
 
 If you have an idea for the project, skill to lend, or you think you can contribute in some other way: [](https://github.com/clevertree/snesology/)We're looking for programmers, graphic artists, musicians, beta testers, and feature wish-lists. Join our [Discord](https://discord.gg/6NDH7sU) and check out our [github README](https://github.com/clevertree/snesology/) for information on how to help.
 `
