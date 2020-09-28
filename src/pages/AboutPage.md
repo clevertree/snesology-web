@@ -5,7 +5,7 @@ The SNESology/AudioSource project is free for everyone. It is also open source, 
 SNESology was originally created by Shnabubula (as a music album) to celebrate the music that came from the SNES.
 Later, it became a blog to post SNESology & SNES related music and albums maintained by Katie Kinkel and others.
 
-Currently, The SNESology project has been restarted as a free, open-source Digital Audio Workstation (DAW) called "Audio Source Composer", that runs on any modern browser.
+Currently, The SNESology project has been restarted as a free, open-source Digital Audio Workstation (DAW) called [i]Audio Source Composer[/i], that runs on any modern browser.
 This DAW will focus on the original chiptune sound (and more) and will allow users to create, edit, and publish their own songs.
 
 Links:
