@@ -15,10 +15,10 @@ Facebook Group: https://www.facebook.com/groups/SNESology
 Facebook Page: https://www.facebook.com/pg/SNESology
 
 Specs:
-Open-source & free to use forever
-Create music from any browser. No software to install.
-Songs built with web technology. No sample libraries to manage.
-Edit songs in real-time with your co-producers (like google docs).
-Chip support: C64, NES, SNES, Sega, PSx, etc.
-Framework for professional, collaborative, & administrative services.
+*Open-source & free to use forever
+*Create music from any browser. No software to install.
+*Songs built with web technology. No sample libraries to manage.
+*Edit songs in real-time with your co-producers (like google docs).
+*Chip support: C64, NES, SNES, Sega, PSx, etc.
+*Framework for professional, collaborative, & administrative services.
 
