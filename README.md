@@ -1,73 +1,67 @@
-# SNESology Website
+# SNESology Project Introduction
+The __SNESology Project__ allows anyone with a web browser to compose and share original music based on the __Super Nintendo Entertainment System__ Sound chip, and other consoles too! 
+This DAW (Digital Audio Workstation) will focus on the original chiptune sound and allow users to create, edit, and publish their own songs, as well as view the 'source' of anyone else's published song. 
 
 
-## Project Introduction
-The SNESology Project allows anyone with a web browser to compose and share original music based on the <em>Super Nintendo Entertainment System</em> Sound chip, and other consoles too! 
-        
-This DAW will focus on the original chiptune sound and allow users to create, edit, and publish their own songs, as well as view the 'source' of anyone else's published song. 
+## Web Browser Demo (Alpha)
+Click the image below to launch SNESology Composer on your browser.
+
+[![Browser Portrait](https://files.audiosource.io/releases/browser/screenshots/browser-portrait1.png)](https://snesology.net/demo "Demo")
 
 
-### Project Goals
+## Project Goals
 
-*   Create music from any browser. No software to install.
-*   Songs built on web technology. No sample libraries to manage
-*   Edit songs in real-time with your friends (like google docs!)
-*   Hire professional help to take your WIP to the next level
-*   Chip support: C64, NES, SNES, Sega, PSx, and others
-*   [Open Source](https://github.com/clevertree/snesology-web/) & Free forever
+* Restore and remix classical chip-tune music
+* Create and publish music with chip-tune instruments on any device
+* Streaming Samples: No sample libraries to manage
+* [Open Source](https://github.com/clevertree/snesology-web/) & Free forever
 
 
+## AudioSource Composer Features
+* Works on any modern browser on any phone, tablet or pc
+* Instruments and effects can be wrapped in each other to build complex presets
+* Note tracks can be called recursively for a highly structured song
 
-## Composer Features: <a name="features"></a>
-* Works on any modern browser on any phone, tablet or pc.
-* Instruments and effects can be wrapped in each other to build complex presets.
-* Note tracks can be called recursively for a highly structured song.
-
-### What's Currently Working
-* Add, edit, and delete notes and note tracks.
-* Edit note velocity and duration.
-* Quarter tone compatibility (missing in MIDI)
-* Recursively play back tracks by adding a 'Track Note'.
+## What's Currently Working
+* Add, edit, and delete notes and note tracks
+* Edit note velocity and duration
+* Quarter tone compatibility
+* Recursively play back tracks by adding a 'Track Note'
 * Track note transposing (play back tracks at different frequencies)
+* 432hz compatibility 
 
-### Under the Hood
-* Audio Source brings the WebAudio API to mobile by using a WebView as a proxy.
-* Songs, instruments, and samples written for Audio Source will work on any platform. 
-* Instruments render using React VirtualDOM on the UI thread while rendering audio in the WebView proxy. 
+## Under the Hood
+* Built on WebAudio technology. 
+* Songs, instruments, and samples written for Audio Source will work on any device 
+* Audio Source Mobile brings the WebAudio API to mobile devices by using a WebView as a proxy
+  * Instruments render using React VirtualDOM on the UI thread while rendering audio in the WebView proxy
 
-### Planned Features
-* Sample libraries
+## Planned Features
+* Chip support: C64, NES, SNES, Sega, PSx, and others
 * Audio recording and editing
 * Track XY Grid for easy mouse-click composition
 * Real-time editing between multiple users (like Google Docs)
 * Server-side song rendering
 * Import/Export MIDI files
-
-
-# Web Browser Demo (Alpha)
-Click the image below to try Audio Source Composer (Alpha) on your browser.
-
-[![Browser Portrait](https://files.audiosource.io/releases/browser/screenshots/browser-portrait1.png)](https://snesology.net/demo "Demo")
+* Edit songs in real-time with your friends (like google docs)
+* Hire professional services to take a WIP to the next level
 
 
 
-
-# SNESology Player (ASP) <a name="player"></a>
-Coming Soon!
 
 
 
 ## How can I help? What should I help with? Are there instructions? 
-### Most of the work will be done on our github repo. Check out the README for installation instructions. 
+Most of the work will be done on our github repo. Check out the README for installation instructions. 
 We want help with everything from images, css, UI, testing, programming, and feedback. (And PR obviously!)
 
-Git Repo: https://github.com/clevertree/snesology-web
+Git Repositories: 
+* [SNESology Website Repository](https://github.com/clevertree/snesology-web)
+* [Audio Source Composer Repository](https://github.com/clevertree/audio-source-composer)
 
 
 
-
-
-# Contact
+## Contact
 
 Open-Source means the SNESology project is free forever, and anyone can join in the development,
 so we're always looking for testers, artists, and all kinds of musician to 
@@ -90,6 +84,6 @@ Check back often for updates as we get closer to Beta!
 *   List your operating-system and browser versions
 *   If possible, include the [developer's console](https://kb.mailster.co/how-can-i-open-the-browsers-console/) in the screen-shot
 *   Try to include a [screen-shot](https://northatlanticlcc.org/help/how-to-save-a-screenshot-of-a-webpage) of the issue
-*   Optionally describe your issue in the #bugs channel on [Discord](https://discord.gg/6NDH7sU)
+*   Optionally describe your issue in the #bugs channel on [Discord](https://discord.gg/qdAqznv)
 
-###### [Created by Ari Asulin](https://github.com/clevertree/)
+#### [Created by Ari Asulin](https://github.com/clevertree/)

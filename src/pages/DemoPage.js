@@ -8,16 +8,14 @@ export default class DemoPage extends React.Component {
         return (
             <ASUIPageContainer {...this.props}>
                 <ASUIMarkdown source={`
-                    # Audio Source Composer Demo
+                    # SNESology Composer Demo
+                    Menu->View->Enable Fullscreen to render in landscape mode
+                    [or load the Composer by itself](/composer)
                 `}/>
 
                 <ASComposer url="/user/protricity/song/Terra_MIDI.json"/>
                 <ASUIMarkdown source={`
-                    Menu->View->Enable Fullscreen to render in landscape mode.
-                    
-                    [or load the Composer by itself](/composer)
-               
-                    More instructions coming soon...
+                Check back frequently for updates...
                 `}/>
             </ASUIPageContainer>
         );

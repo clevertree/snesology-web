@@ -20,24 +20,87 @@ export default class HomePage extends React.Component {
 
 
 const introText = `
-# SNESology
-The SNESology Project allows anyone with a web browser to compose and publish music using samples from the 
-__Super Nintendo Entertainment System__ Sound chip, and other consoles too! 
+# SNESology Project Introduction
+The __SNESology Project__ allows anyone with a web browser to compose and share original music based on the __Super Nintendo Entertainment System__ Sound chip, and other consoles too! 
+This DAW (Digital Audio Workstation) will focus on the original chiptune sound and allow users to create, edit, and publish their own songs, as well as view the 'source' of anyone else's published song. 
 
-### Project Goals
-
-*   [Open-source](https://github.com/clevertree/snesology/) & free to use forever
-*   Create music from any browser. No software to install.
-*   Songs built with web technology. No sample libraries to manage.
-*   Edit songs in real-time with your co-producers (like google docs).
-*   Chip support: C64, NES, SNES, Sega, PSx, etc.
-*   Framework for professional, collaborative, & administrative services.
-
-Check out some published songs below:
+## Featured Songs
 `;
 
 const aboutText = `
-## Help Wanted!
+
+## Web Browser Demo (Alpha)
+Click the image below to launch SNESology Composer on your browser.
+
+[![Browser Portrait](https://files.audiosource.io/releases/browser/screenshots/browser-portrait1.png)](https://snesology.net/demo "Demo")
+
+
+## Project Goals
+
+* Restore and remix classical chip-tune music
+* Create and publish music with chip-tune instruments on any device
+* Streaming Samples: No sample libraries to manage
+* [Open Source](https://github.com/clevertree/snesology-web/) & Free forever
+
+
+## AudioSource Composer Features
+* Works on any modern browser on any phone, tablet or pc
+* Instruments and effects can be wrapped in each other to build complex presets
+* Note tracks can be called recursively for a highly structured song
+
+## What's Currently Working
+* Add, edit, and delete notes and note tracks
+* Edit note velocity and duration
+* Quarter tone compatibility
+* Recursively play back tracks by adding a 'Track Note'
+* Track note transposing (play back tracks at different frequencies)
+* 432hz compatibility 
+
+## Under the Hood
+* Built on WebAudio technology. 
+* Songs, instruments, and samples written for Audio Source will work on any device 
+* Audio Source Mobile brings the WebAudio API to mobile devices by using a WebView as a proxy
+  * Instruments render using React VirtualDOM on the UI thread while rendering audio in the WebView proxy
+
+## Planned Features
+* Chip support: C64, NES, SNES, Sega, PSx, and others
+* Audio recording and editing
+* Track XY Grid for easy mouse-click composition
+* Real-time editing between multiple users (like Google Docs)
+* Server-side song rendering
+* Import/Export MIDI files
+* Edit songs in real-time with your friends (like google docs)
+* Hire professional services to take a WIP to the next level
+
+
+
+
+
+
+## How can I help? What should I help with? Are there instructions? 
+Most of the work will be done on our github repo. Check out the README for installation instructions. 
+We want help with everything from images, css, UI, testing, programming, and feedback. (And PR obviously!)
+
+Git Repositories: 
+* [SNESology Website Repository](https://github.com/clevertree/snesology-web)
+* [Audio Source Composer Repository](https://github.com/clevertree/audio-source-composer)
+
+
+
+## Contact
+
+Open-Source means the SNESology project is free forever, and anyone can join in the development,
+so we're always looking for testers, artists, and all kinds of musician to 
+[contribute](https://github.com/clevertree/snesology-web/issues/4).
+
+Currently the composer is in
+[active development](https://github.com/clevertree/snesology-web)
+and has not yet been released.
+Check back often for updates as we get closer to Beta!{
+If you want to join up, please contact us on the 
+[GitHub page](https://github.com/clevertree).
+
+Check back often for updates as we get closer to Beta!
 
 ### How to report a bug
 
@@ -47,9 +110,6 @@ const aboutText = `
 *   List your operating-system and browser versions
 *   If possible, include the [developer's console](https://kb.mailster.co/how-can-i-open-the-browsers-console/) in the screen-shot
 *   Try to include a [screen-shot](https://northatlanticlcc.org/help/how-to-save-a-screenshot-of-a-webpage) of the issue
-*   Optionally describe your issue in the #bugs channel on [Discord](https://discord.gg/6NDH7sU)
+*   Optionally describe your issue in the #bugs channel on [Discord](https://discord.gg/qdAqznv)
 
-### Want to contribute?
-
-If you have an idea for the project, skill to lend, or you think you can contribute in some other way: [](https://github.com/clevertree/snesology/)We're looking for programmers, graphic artists, musicians, beta testers, and feature wish-lists. Join our [Discord](https://discord.gg/6NDH7sU) and check out our [github README](https://github.com/clevertree/snesology/) for information on how to help.
 `

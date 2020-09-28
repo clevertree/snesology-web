@@ -95,9 +95,9 @@ class SPCPlayerSynthesizer {
 
     }
 
-    getFrequencyFromAlias(aliasName) {
-        return null;
-    }
+    // getFrequencyFromAlias(aliasName) {
+    //     return null;
+    // }
 
     getCommandFrequency(command) {
         const keyNumber = this.getCommandKeyNumber(command);
