@@ -2,7 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="418d3449-0daa-4ba7-bfa9-b8c2fdc60e1f" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../snesology-files/samples/sample.library.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/audio-source" beforeDir="false" afterPath="$PROJECT_DIR$/src/audio-source" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/audio-source/composer/ASComposerEvents.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/audio-source/composer/ASComposerEvents.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/audio-source/composer/program/renderer/ASCProgramRendererBase.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/audio-source/composer/program/renderer/ASCProgramRendererBase.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/audio-source/programs/voice/audiobuffer/AudioBufferInstrument.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/audio-source/programs/voice/audiobuffer/AudioBufferInstrument.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/audio-source/programs/voice/audiobuffer/render/AudioBufferInstrumentRendererBase.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/audio-source/programs/voice/audiobuffer/render/AudioBufferInstrumentRendererBase.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/audio-source/programs/voice/oscillator/OscillatorInstrument.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/audio-source/programs/voice/oscillator/OscillatorInstrument.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/audio-source/song/Song.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/audio-source/song/Song.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,8 +22,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="JavaScript File" />
         <option value="CSS File" />
+        <option value="JavaScript File" />
       </list>
     </option>
   </component>
@@ -45,7 +52,7 @@
     <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="TEXT" />
     <property name="javascript.nodejs.core.library.configured.version" value="11.10.0" />
     <property name="javascript.nodejs.core.library.typings.version" value="11.10.0" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/build/user/protricity/song" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../snesology-files/samples/snes" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -57,26 +64,26 @@
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/build/user/protricity/song" />
-      <recent name="$PROJECT_DIR$/src/pages" />
-      <recent name="$PROJECT_DIR$/../snesology-files/samples/nes" />
-      <recent name="$PROJECT_DIR$/src/audio-source/components/page/theme/default" />
-      <recent name="$PROJECT_DIR$/src/audio-source/composer/modal" />
-    </key>
-    <key name="es6.move.members.recent.items">
-      <recent name="$PROJECT_DIR$/src/audio-source/song/library/RemotePresetLibrary.js" />
-      <recent name="$PROJECT_DIR$/src/library/snesology.library.js" />
-      <recent name="$PROJECT_DIR$/src/audio-source/song/library/PresetLibrary.js" />
-      <recent name="$PROJECT_DIR$/src/audio-source/song/library/SampleLibrary.js" />
-      <recent name="$PROJECT_DIR$/src/audio-source/components/page/playlist/ASUIPagePlaylistEntry.js" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/audio-source/composer/" />
       <recent name="$PROJECT_DIR$/src/programs/player/gme" />
       <recent name="$PROJECT_DIR$/../snesology-files/samples/snes" />
       <recent name="$PROJECT_DIR$/src" />
       <recent name="$PROJECT_DIR$/src/audio-source/server/pages/theme/" />
-      <recent name="$PROJECT_DIR$/src/audio-source/server/pages/theme" />
+    </key>
+    <key name="es6.move.members.recent.items">
+      <recent name="$PROJECT_DIR$/src/audio-source/song/playlist/PlaylistEntry.js" />
+      <recent name="$PROJECT_DIR$/src/audio-source/song/library/RemotePresetLibrary.js" />
+      <recent name="$PROJECT_DIR$/src/library/snesology.library.js" />
+      <recent name="$PROJECT_DIR$/src/audio-source/song/library/PresetLibrary.js" />
+      <recent name="$PROJECT_DIR$/src/audio-source/song/library/SampleLibrary.js" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/../snesology-files/samples/snes" />
+      <recent name="$PROJECT_DIR$/src/audio-source/song/playlist" />
+      <recent name="$PROJECT_DIR$/src/audio-source/composer" />
+      <recent name="$PROJECT_DIR$/build/user/protricity/song" />
+      <recent name="$PROJECT_DIR$/src/pages" />
     </key>
   </component>
   <component name="RunManager" selected="npm.start">
@@ -89,7 +96,7 @@
     <configuration name="Server.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/src/audio-source/server/Server.js" working-dir="$PROJECT_DIR$/src/audio-source/server">
       <method v="2" />
     </configuration>
-    <configuration name="download.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/src/samples/gm/fws/misk/download.js" working-dir="$PROJECT_DIR$/src/samples/gm/fws/misk">
+    <configuration name="gen.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/../snesology-files/samples/snes/gen.js" working-dir="$PROJECT_DIR$/../snesology-files/samples/snes">
       <method v="2" />
     </configuration>
     <configuration name="startServer.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" node-parameters="-r esm" path-to-js-file="$PROJECT_DIR$/src/startServer.js" working-dir="$PROJECT_DIR$/scripts">
@@ -132,9 +139,9 @@
     <list>
       <item itemvalue="JavaScript Debug.index.html" />
       <item itemvalue="JavaScript Debug.index.html (1)" />
-      <item itemvalue="Node.js.download.js" />
       <item itemvalue="Node.js.Server.js" />
       <item itemvalue="Node.js.startServer.js" />
+      <item itemvalue="Node.js.gen.js" />
       <item itemvalue="npm.start-server" />
       <item itemvalue="npm.start" />
       <item itemvalue="npm.run build" />
@@ -142,11 +149,11 @@
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Node.js.gen.js" />
         <item itemvalue="JavaScript Debug.index.html (1)" />
         <item itemvalue="Node.js.startServer.js" />
         <item itemvalue="Node.js.Server.js" />
         <item itemvalue="JavaScript Debug.index.html" />
-        <item itemvalue="Node.js.download.js" />
       </list>
     </recent_temporary>
   </component>
@@ -263,7 +270,12 @@
       <workItem from="1601226727898" duration="9845000" />
       <workItem from="1601257731820" duration="1421000" />
       <workItem from="1601319244486" duration="4791000" />
-      <workItem from="1601333103977" duration="1619000" />
+      <workItem from="1601333103977" duration="7304000" />
+      <workItem from="1601397176140" duration="6180000" />
+      <workItem from="1601413142118" duration="4006000" />
+      <workItem from="1601482549895" duration="4649000" />
+      <workItem from="1601516817978" duration="7114000" />
+      <workItem from="1601567181651" duration="5946000" />
     </task>
     <servers />
   </component>
@@ -319,82 +331,82 @@
       <screen x="3440" y="0" width="3840" height="2160" />
     </state>
     <state x="3507" y="27" width="3773" height="2133" key="FileDocumentManager.FileCacheConflict/3440.0.3840.2160/0.205.3440.1440@3440.0.3840.2160" timestamp="1600212268388" />
-    <state width="841" height="2009" key="GridCell.Tab.0.bottom" timestamp="1601333119808">
+    <state width="1366" height="2009" key="GridCell.Tab.0.bottom" timestamp="1601576916444">
       <screen x="0" y="68" width="3840" height="2160" />
     </state>
     <state width="1199" height="1982" key="GridCell.Tab.0.bottom/3440.0.3840.2160/0.205.3440.1440@0.205.3440.1440" timestamp="1600930218907" />
     <state width="1074" height="1982" key="GridCell.Tab.0.bottom/3440.0.3840.2160/0.205.3440.1440@3440.0.3840.2160" timestamp="1600903612823" />
-    <state width="841" height="2009" key="GridCell.Tab.0.bottom/3840.0.3440.1440/0.68.3840.2160@0.68.3840.2160" timestamp="1601333119808" />
+    <state width="1366" height="2009" key="GridCell.Tab.0.bottom/3840.0.3440.1440/0.68.3840.2160@0.68.3840.2160" timestamp="1601576916444" />
     <state width="841" height="1262" key="GridCell.Tab.0.bottom/3840.0.3440.1440/0.68.3840.2160@3840.0.3440.1440" timestamp="1601319398551" />
-    <state width="841" height="2009" key="GridCell.Tab.0.center" timestamp="1601333119808">
+    <state width="1366" height="2009" key="GridCell.Tab.0.center" timestamp="1601576916444">
       <screen x="0" y="68" width="3840" height="2160" />
     </state>
     <state width="1199" height="1982" key="GridCell.Tab.0.center/3440.0.3840.2160/0.205.3440.1440@0.205.3440.1440" timestamp="1600930218907" />
     <state width="1074" height="1982" key="GridCell.Tab.0.center/3440.0.3840.2160/0.205.3440.1440@3440.0.3840.2160" timestamp="1600903612822" />
-    <state width="841" height="2009" key="GridCell.Tab.0.center/3840.0.3440.1440/0.68.3840.2160@0.68.3840.2160" timestamp="1601333119808" />
+    <state width="1366" height="2009" key="GridCell.Tab.0.center/3840.0.3440.1440/0.68.3840.2160@0.68.3840.2160" timestamp="1601576916444" />
     <state width="841" height="1262" key="GridCell.Tab.0.center/3840.0.3440.1440/0.68.3840.2160@3840.0.3440.1440" timestamp="1601319398551" />
-    <state width="841" height="2009" key="GridCell.Tab.0.left" timestamp="1601333119807">
+    <state width="1366" height="2009" key="GridCell.Tab.0.left" timestamp="1601576916444">
       <screen x="0" y="68" width="3840" height="2160" />
     </state>
     <state width="1199" height="1982" key="GridCell.Tab.0.left/3440.0.3840.2160/0.205.3440.1440@0.205.3440.1440" timestamp="1600930218907" />
     <state width="1074" height="1982" key="GridCell.Tab.0.left/3440.0.3840.2160/0.205.3440.1440@3440.0.3840.2160" timestamp="1600903612822" />
-    <state width="841" height="2009" key="GridCell.Tab.0.left/3840.0.3440.1440/0.68.3840.2160@0.68.3840.2160" timestamp="1601333119807" />
+    <state width="1366" height="2009" key="GridCell.Tab.0.left/3840.0.3440.1440/0.68.3840.2160@0.68.3840.2160" timestamp="1601576916444" />
     <state width="841" height="1262" key="GridCell.Tab.0.left/3840.0.3440.1440/0.68.3840.2160@3840.0.3440.1440" timestamp="1601319398551" />
-    <state width="841" height="2009" key="GridCell.Tab.0.right" timestamp="1601333119808">
+    <state width="1366" height="2009" key="GridCell.Tab.0.right" timestamp="1601576916444">
       <screen x="0" y="68" width="3840" height="2160" />
     </state>
     <state width="1199" height="1982" key="GridCell.Tab.0.right/3440.0.3840.2160/0.205.3440.1440@0.205.3440.1440" timestamp="1600930218907" />
     <state width="1074" height="1982" key="GridCell.Tab.0.right/3440.0.3840.2160/0.205.3440.1440@3440.0.3840.2160" timestamp="1600903612822" />
-    <state width="841" height="2009" key="GridCell.Tab.0.right/3840.0.3440.1440/0.68.3840.2160@0.68.3840.2160" timestamp="1601333119808" />
+    <state width="1366" height="2009" key="GridCell.Tab.0.right/3840.0.3440.1440/0.68.3840.2160@0.68.3840.2160" timestamp="1601576916444" />
     <state width="841" height="1262" key="GridCell.Tab.0.right/3840.0.3440.1440/0.68.3840.2160@3840.0.3440.1440" timestamp="1601319398551" />
-    <state width="1366" height="2009" key="GridCell.Tab.1.bottom" timestamp="1601330903693">
+    <state width="1366" height="2009" key="GridCell.Tab.1.bottom" timestamp="1601576917849">
       <screen x="0" y="68" width="3840" height="2160" />
     </state>
     <state width="1199" height="1982" key="GridCell.Tab.1.bottom/3440.0.3840.2160/0.205.3440.1440@0.205.3440.1440" timestamp="1600930218907" />
     <state width="1199" height="1982" key="GridCell.Tab.1.bottom/3440.0.3840.2160/0.205.3440.1440@3440.0.3840.2160" timestamp="1600234763960" />
-    <state width="1366" height="2009" key="GridCell.Tab.1.bottom/3840.0.3440.1440/0.68.3840.2160@0.68.3840.2160" timestamp="1601330903693" />
-    <state width="1366" height="2009" key="GridCell.Tab.1.center" timestamp="1601330903693">
+    <state width="1366" height="2009" key="GridCell.Tab.1.bottom/3840.0.3440.1440/0.68.3840.2160@0.68.3840.2160" timestamp="1601576917849" />
+    <state width="1366" height="2009" key="GridCell.Tab.1.center" timestamp="1601576917849">
       <screen x="0" y="68" width="3840" height="2160" />
     </state>
     <state width="1199" height="1982" key="GridCell.Tab.1.center/3440.0.3840.2160/0.205.3440.1440@0.205.3440.1440" timestamp="1600930218907" />
     <state width="1199" height="1982" key="GridCell.Tab.1.center/3440.0.3840.2160/0.205.3440.1440@3440.0.3840.2160" timestamp="1600234763960" />
-    <state width="1366" height="2009" key="GridCell.Tab.1.center/3840.0.3440.1440/0.68.3840.2160@0.68.3840.2160" timestamp="1601330903693" />
-    <state width="1366" height="2009" key="GridCell.Tab.1.left" timestamp="1601330903693">
+    <state width="1366" height="2009" key="GridCell.Tab.1.center/3840.0.3440.1440/0.68.3840.2160@0.68.3840.2160" timestamp="1601576917849" />
+    <state width="1366" height="2009" key="GridCell.Tab.1.left" timestamp="1601576917848">
       <screen x="0" y="68" width="3840" height="2160" />
     </state>
     <state width="1199" height="1982" key="GridCell.Tab.1.left/3440.0.3840.2160/0.205.3440.1440@0.205.3440.1440" timestamp="1600930218907" />
     <state width="1199" height="1982" key="GridCell.Tab.1.left/3440.0.3840.2160/0.205.3440.1440@3440.0.3840.2160" timestamp="1600234763960" />
-    <state width="1366" height="2009" key="GridCell.Tab.1.left/3840.0.3440.1440/0.68.3840.2160@0.68.3840.2160" timestamp="1601330903693" />
-    <state width="1366" height="2009" key="GridCell.Tab.1.right" timestamp="1601330903693">
+    <state width="1366" height="2009" key="GridCell.Tab.1.left/3840.0.3440.1440/0.68.3840.2160@0.68.3840.2160" timestamp="1601576917848" />
+    <state width="1366" height="2009" key="GridCell.Tab.1.right" timestamp="1601576917849">
       <screen x="0" y="68" width="3840" height="2160" />
     </state>
     <state width="1199" height="1982" key="GridCell.Tab.1.right/3440.0.3840.2160/0.205.3440.1440@0.205.3440.1440" timestamp="1600930218907" />
     <state width="1199" height="1982" key="GridCell.Tab.1.right/3440.0.3840.2160/0.205.3440.1440@3440.0.3840.2160" timestamp="1600234763960" />
-    <state width="1366" height="2009" key="GridCell.Tab.1.right/3840.0.3440.1440/0.68.3840.2160@0.68.3840.2160" timestamp="1601330903693" />
-    <state width="1366" height="2009" key="GridCell.Tab.2.bottom" timestamp="1601330903693">
+    <state width="1366" height="2009" key="GridCell.Tab.1.right/3840.0.3440.1440/0.68.3840.2160@0.68.3840.2160" timestamp="1601576917849" />
+    <state width="1366" height="2009" key="GridCell.Tab.2.bottom" timestamp="1601576916297">
       <screen x="0" y="68" width="3840" height="2160" />
     </state>
     <state width="1199" height="1982" key="GridCell.Tab.2.bottom/3440.0.3840.2160/0.205.3440.1440@0.205.3440.1440" timestamp="1600930218908" />
     <state width="1199" height="1982" key="GridCell.Tab.2.bottom/3440.0.3840.2160/0.205.3440.1440@3440.0.3840.2160" timestamp="1600234763960" />
-    <state width="1366" height="2009" key="GridCell.Tab.2.bottom/3840.0.3440.1440/0.68.3840.2160@0.68.3840.2160" timestamp="1601330903693" />
-    <state width="1366" height="2009" key="GridCell.Tab.2.center" timestamp="1601330903693">
+    <state width="1366" height="2009" key="GridCell.Tab.2.bottom/3840.0.3440.1440/0.68.3840.2160@0.68.3840.2160" timestamp="1601576916297" />
+    <state width="1366" height="2009" key="GridCell.Tab.2.center" timestamp="1601576916297">
       <screen x="0" y="68" width="3840" height="2160" />
     </state>
     <state width="1199" height="1982" key="GridCell.Tab.2.center/3440.0.3840.2160/0.205.3440.1440@0.205.3440.1440" timestamp="1600930218907" />
     <state width="1199" height="1982" key="GridCell.Tab.2.center/3440.0.3840.2160/0.205.3440.1440@3440.0.3840.2160" timestamp="1600234763960" />
-    <state width="1366" height="2009" key="GridCell.Tab.2.center/3840.0.3440.1440/0.68.3840.2160@0.68.3840.2160" timestamp="1601330903693" />
-    <state width="1366" height="2009" key="GridCell.Tab.2.left" timestamp="1601330903693">
+    <state width="1366" height="2009" key="GridCell.Tab.2.center/3840.0.3440.1440/0.68.3840.2160@0.68.3840.2160" timestamp="1601576916297" />
+    <state width="1366" height="2009" key="GridCell.Tab.2.left" timestamp="1601576916297">
       <screen x="0" y="68" width="3840" height="2160" />
     </state>
     <state width="1199" height="1982" key="GridCell.Tab.2.left/3440.0.3840.2160/0.205.3440.1440@0.205.3440.1440" timestamp="1600930218907" />
     <state width="1199" height="1982" key="GridCell.Tab.2.left/3440.0.3840.2160/0.205.3440.1440@3440.0.3840.2160" timestamp="1600234763960" />
-    <state width="1366" height="2009" key="GridCell.Tab.2.left/3840.0.3440.1440/0.68.3840.2160@0.68.3840.2160" timestamp="1601330903693" />
-    <state width="1366" height="2009" key="GridCell.Tab.2.right" timestamp="1601330903693">
+    <state width="1366" height="2009" key="GridCell.Tab.2.left/3840.0.3440.1440/0.68.3840.2160@0.68.3840.2160" timestamp="1601576916297" />
+    <state width="1366" height="2009" key="GridCell.Tab.2.right" timestamp="1601576916297">
       <screen x="0" y="68" width="3840" height="2160" />
     </state>
     <state width="1199" height="1982" key="GridCell.Tab.2.right/3440.0.3840.2160/0.205.3440.1440@0.205.3440.1440" timestamp="1600930218908" />
     <state width="1199" height="1982" key="GridCell.Tab.2.right/3440.0.3840.2160/0.205.3440.1440@3440.0.3840.2160" timestamp="1600234763960" />
-    <state width="1366" height="2009" key="GridCell.Tab.2.right/3840.0.3440.1440/0.68.3840.2160@0.68.3840.2160" timestamp="1601330903693" />
+    <state width="1366" height="2009" key="GridCell.Tab.2.right/3840.0.3440.1440/0.68.3840.2160@0.68.3840.2160" timestamp="1601576916297" />
     <state width="1199" height="1982" key="GridCell.Tab.3.bottom" timestamp="1600234763960">
       <screen x="3440" y="0" width="3840" height="2160" />
     </state>
@@ -423,7 +435,7 @@
       <screen x="3440" y="0" width="3840" height="2160" />
     </state>
     <state x="3607" y="125" width="3573" height="1935" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog/3440.0.3840.2160/0.205.3440.1440@3440.0.3840.2160" timestamp="1600141461708" />
-    <state x="3607" y="125" width="3513" height="1935" maximized="true" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1601333419570">
+    <state x="3607" y="125" width="3513" height="1935" maximized="true" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1601575600635">
       <screen x="3840" y="0" width="3440" height="1440" />
     </state>
     <state x="3607" y="125" width="3513" height="1935" maximized="true" key="com.intellij.history.integration.ui.views.FileHistoryDialog/3440.0.3840.2160/0.205.3440.1440@3440.0.3840.2160" timestamp="1600207319236" />
@@ -444,25 +456,35 @@
       <screen x="3440" y="0" width="3840" height="2160" />
     </state>
     <state x="3507" y="27" width="3064" height="2091" key="dock-window-1/3440.0.3840.2160/0.205.3440.1440@3440.0.3840.2160" timestamp="1597078716746" />
-    <state x="1664" y="934" width="1252" height="1023" key="find.popup" timestamp="1601333722669">
+    <state x="1663" y="935" width="1252" height="1023" key="find.popup" timestamp="1601577030369">
       <screen x="0" y="68" width="3840" height="2160" />
     </state>
     <state x="1491" y="782" width="1121" height="682" key="find.popup/3440.0.3840.2160/0.205.3440.1440@0.205.3440.1440" timestamp="1600931111970" />
     <state x="5104" y="866" width="1251" height="1023" key="find.popup/3440.0.3840.2160/0.205.3440.1440@3440.0.3840.2160" timestamp="1600879294863" />
-    <state x="1664" y="934" width="1252" height="1023" key="find.popup/3840.0.3440.1440/0.68.3840.2160@0.68.3840.2160" timestamp="1601333722669" />
+    <state x="1663" y="935" width="1252" height="1023" key="find.popup/3840.0.3440.1440/0.68.3840.2160@0.68.3840.2160" timestamp="1601577030369" />
     <state x="5331" y="577" width="1122" height="682" key="find.popup/3840.0.3440.1440/0.68.3840.2160@3840.0.3440.1440" timestamp="1601265624006" />
     <state x="5057" y="523" key="run.anything.popup" timestamp="1600120949184">
       <screen x="3440" y="0" width="3840" height="2160" />
     </state>
     <state x="5057" y="523" key="run.anything.popup/3440.0.3840.2160/0.205.3440.1440@3440.0.3840.2160" timestamp="1600120949184" />
-    <state x="1617" y="806" width="751" height="677" key="search.everywhere.popup" timestamp="1601333344643">
+    <state x="1617" y="806" width="751" height="677" key="search.everywhere.popup" timestamp="1601577122179">
       <screen x="0" y="68" width="3840" height="2160" />
     </state>
     <state x="1449" y="697" width="672" height="451" key="search.everywhere.popup/3440.0.3840.2160/0.205.3440.1440@0.205.3440.1440" timestamp="1600932226769" />
     <state x="5057" y="738" width="672" height="676" key="search.everywhere.popup/3440.0.3840.2160/0.205.3440.1440@3440.0.3840.2160" timestamp="1600803693385" />
-    <state x="1617" y="806" width="751" height="677" key="search.everywhere.popup/3840.0.3440.1440/0.68.3840.2160@0.68.3840.2160" timestamp="1601333344643" />
+    <state x="1617" y="806" width="751" height="677" key="search.everywhere.popup/3840.0.3440.1440/0.68.3840.2160@0.68.3840.2160" timestamp="1601577122179" />
   </component>
   <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/src/audio-source/programs/voice/audiobuffer/render/AudioBufferInstrumentRendererBase.js</url>
+          <line>234</line>
+          <properties lambdaOrdinal="-1" />
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
     <watches-manager>
       <configuration name="http://localhost:3000/composer">
         <watch expression="trackStats" />

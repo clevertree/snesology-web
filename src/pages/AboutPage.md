@@ -26,7 +26,5 @@ This DAW will focus on the original chiptune sound (and more) and will allow use
 ## FAQ
 
 ### Q: Why doesn't this composer have a standard (left-to-right) MIDI note editor?
-A primary goal of Audio Source Composer is to provide a song 'source' view which is easy to read and edit. This is why ASC's primary track view is top-down "tracker" style. Another limitation is the ability to render both an HTML-based track view and a native mobile one as well. 
+A primary goal of Audio Source Composer is to provide a song 'source' view which is easy to read and edit. This is why ASC's primary track view is top-down "tracker" style. Another limitation is the ability to render both an HTML-based track view and a native mobile one as well. Once this is solved, it will be possible to design an all-platform left-to-right or top-to-bottom standard MIDI note editor
 
-### So, will there be a standard MIDI note editor interface?
-Absolutely! First things first.

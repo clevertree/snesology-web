@@ -11,7 +11,7 @@ export default class HomePage extends React.Component {
         return (
             <ASUIPageContainer {...this.props}>
                 <ASUIMarkdown trim={false} source={introText}/>
-                <ASUIPagePlaylist src="/playlists/feed/home.pls"/>
+                <ASUIPagePlaylist src="/playlists/feed/home.pl.json"/>
                 <ASUIMarkdown trim={false} source={aboutText}/>
             </ASUIPageContainer>
         );
