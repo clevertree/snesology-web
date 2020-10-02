@@ -10,9 +10,9 @@ export default class HomePage extends React.Component {
     render() {
         return (
             <ASUIPageContainer {...this.props}>
-                <ASUIMarkdown trim={false} source={introText}/>
+                <ASUIMarkdown trim={false} source={introText} updateLinkTargets/>
                 <ASUIPagePlaylist src="/playlists/feed/home.pl.json"/>
-                <ASUIMarkdown trim={false} source={aboutText}/>
+                <ASUIMarkdown trim={false} source={aboutText} updateLinkTargets/>
             </ASUIPageContainer>
         );
     }
@@ -20,11 +20,24 @@ export default class HomePage extends React.Component {
 
 
 const introText = `
+
+Catch our presentation for 
+[MAGWest 2020](https://www.magwest.org/news/2020/9/25/schedule-is-live)
+streaming live __today__ Oct 2nd 9:30 PDT
+at [twitch.tv](https://www.twitch.tv/MAGFest).
+
+or click the video link below:
+
+[![Audi R8](https://img.youtube.com/vi/8BGDdypgcwI/0.jpg)](https://www.youtube.com/watch?v=8BGDdypgcwI "Audi R8")
+
+
 # SNESology Project Introduction
 The __SNESology Project__ allows anyone with a web browser to compose and share original music based on the __Super Nintendo Entertainment System__ Sound chip, and other consoles too! 
 This DAW (Digital Audio Workstation) will focus on the original chiptune sound and allow users to create, edit, and publish their own songs, as well as view the 'source' of anyone else's published song. 
 
-## Featured Songs
+
+
+## Featured Songs (Coming Soon)
 `;
 
 const aboutText = `

@@ -25,8 +25,8 @@ serviceWorker.register();
 
 // Set up libraries
 const url = 'https://files.snesology.net/samples/';
-RemotePresetLibrary.addRemoteLibrary(`${url}snes/contra.library.json`,    "[SNES] Contra III - The Alien Wars",         "snes-contra")
 RemotePresetLibrary.addRemoteLibrary(`${url}snes/ffvi.library.json`,      "[SNES] Final Fantasy VI",                    "snes-ffvi")
+RemotePresetLibrary.addRemoteLibrary(`${url}snes/contra.library.json`,    "[SNES] Contra III - The Alien Wars",         "snes-contra")
 RemotePresetLibrary.addRemoteLibrary(`${url}snes/soe.library.json`,       "[SNES] Secret of Evermore",                  "snes-soe")
 RemotePresetLibrary.addRemoteLibrary(`${url}snes/scviv.library.json`,     "[SNES] Super Castlevania IV",                "snes-scviv")
 RemotePresetLibrary.addRemoteLibrary(`${url}snes/smw.library.json`,       "[SNES] Super Mario World",                   "snes-smw")
