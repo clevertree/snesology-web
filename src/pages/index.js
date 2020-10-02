@@ -16,7 +16,8 @@ const pageList = [
     [AboutPage,     '/about',                           'About',        true,       false],
     [DemoPage,      '/demo',                            'Demo',         true,       false],
     // [DownloadsPage, '/downloads',                       'Downloads',    true,       false],
-    [ContactPage,   '/contact',                         'Contact',      true,      true],
+    [null,          "https://discord.gg/qdAqznv",       'Discord',      true,      false],
+    [ContactPage,   '/contact',                         'Contact',      false,      true],
 
     [SongPage,      '/user/:username/song/:songPath',   'Song Page'],
     [UserPage,      '/user/:username',                  'User Page'],

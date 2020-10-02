@@ -13,7 +13,7 @@ This DAW will focus on the original chiptune sound (and more) and will allow use
 
 ## Links:
 * Github: https://github.com/clevertree/snesology-web
-* Discord: https://discord.gg/6NDH7sU
+* Discord: https://discord.gg/qdAqznv
 * Facebook Group: https://www.facebook.com/groups/SNESology
 * Facebook Page: https://www.facebook.com/pg/SNESology
 

@@ -116,7 +116,7 @@ If you want to join up, please contact us on the
 ### Join our Discord channel
 
 Talk about SNESology and other stuff. 
-[Discord](https://discord.gg/6NDH7sU).
+[Discord](https://discord.gg/qdAqznv).
 
 ### Contribute / Report a bug
 
@@ -126,7 +126,7 @@ Talk about SNESology and other stuff.
 *   List your operating-system and browser versions.
 *   If possible, include the [developer's console](https://kb.mailster.co/how-can-i-open-the-browsers-console/) in the screen-shot.
 *   Try to include a [screen-shot](https://northatlanticlcc.org/help/how-to-save-a-screenshot-of-a-webpage) of the issue.
-*   Optionally describe your issue in the #bugs channel on [Discord](https://discord.gg/6NDH7sU).
+*   Optionally describe your issue in the #bugs channel on [Discord](https://discord.gg/qdAqznv).
 
 Check back often for updates as we get closer to Beta!
 `
