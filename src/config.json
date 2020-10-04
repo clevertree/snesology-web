@@ -1,5 +1,4 @@
 {
   "port": 8080,
-  "publicURL": "http://localhost:8080",
-  "corsOrigin": "http://localhost:3000"
+  "publicURL": "http://localhost:8080"
 }

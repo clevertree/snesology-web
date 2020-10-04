@@ -59,6 +59,58 @@ Git Repositories:
 * [SNESology Website Repository](https://github.com/clevertree/snesology-web)
 * [Audio Source Composer Repository](https://github.com/clevertree/audio-source-composer)
 
+To get set up for local development, please follow the instructions below:
+
+
+## Website Development <a id="dev-web"></a>
+
+The SNESology Application is developed in Javascript using ReactJS and ReactNative to work on all platforms. 
+Please follow the instructions below to set up your local development environment for this project. 
+
+### Prerequisites
+
+1. Download and install [NodeJS](https://nodejs.org/en/download/)
+    * If developing on Windows, please use [Chocolatey](https://chocolatey.org/install) 
+ for a linux-like development console and package manager
+2. Download and install [git](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git) source control
+3. Register an account with [github.com](GitHub) and set up your [SSH key](https://docs.github.com/en/free-pro-team@latest/github/authenticating-to-github/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent) on your ssh client
+
+~~~~
+$ git clone ssh://git@github.com/clevertree/snesology-web --recursive
+$ cd [snesology-web]
+$ npm install
+~~~~
+
+### Run Development Server (ReactJS)
+This is the server used to develop the application front-end. 
+This command should also open the website in your local browser.
+It is not necessary to run the development server on a production deployment.
+~~~~
+$ npm start
+~~~~
+
+### Browse to Local Development Server
+[http://localhost:3000](http://localhost:3000)
+
+Note: For the API calls to work, also run the production server below.
+
+
+### Run the API Server (NodeJS)
+The API server handles API calls to the backend. 
+It also distributes the optimized production server HTML.
+~~~~
+$ npm run start-server
+~~~~
+
+### Browse to Local Production Server
+[http://localhost:8080](http://localhost:8080)
+
+Note: you can change the port and other config options at this location:
+
+~~~~
+src/config.json
+~~~~
+
 
 
 ## Contact
