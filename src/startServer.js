@@ -1,5 +1,5 @@
 import path from "path";
-import Server from "./audio-source/server/Server";
+import Server from "./audio-source/src/server/Server";
 
 const serverConfig = require('./config.json');
 

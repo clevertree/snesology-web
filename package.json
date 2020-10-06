@@ -18,7 +18,8 @@
     "fibers": "^4.0.3",
     "fili": "^2.0.3",
     "lz-string": "^1.4.4",
-    "midi-json-parser": "^8.0.11",
+    "midi-json-parser": "^8.0.13",
+    "midijs": "^0.12.0",
     "node-sass": "^4.14.1",
     "prop-types": "^15.7.2",
     "react": "^16.13.1",
@@ -32,11 +33,14 @@
     "typescript": "^3.9.6",
     "webtorrent": "^0.108.6"
   },
+  "devDependencies": {
+    "@babel/plugin-transform-react-jsx": "^7.10.4"
+  },
   "scripts": {
     "start": "react-scripts start",
     "start-server": "node -r esm ./src/startServer.js",
     "build": "react-scripts build",
-    "test": "react-scripts test",
+    "test": "react-scripts test --watchAll",
     "eject": "react-scripts eject"
   },
   "eslintConfig": {
@@ -53,8 +57,5 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  },
-  "devDependencies": {
-    "@babel/plugin-transform-react-jsx": "^7.10.4"
   }
 }

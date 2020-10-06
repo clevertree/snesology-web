@@ -1,7 +1,7 @@
 import * as React from "react";
-import {ASUIPageContainer, ASUIMarkdown} from "../audio-source/components";
+import {ASUIPageContainer, ASUIMarkdown} from "../audio-source/src/components";
 
-import ASComposer from "../audio-source/composer/ASComposer";
+import ASComposer from "../audio-source/src/composer/ASComposer";
 
 export default class DemoPage extends React.Component {
     render() {

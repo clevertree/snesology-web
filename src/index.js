@@ -1,9 +1,9 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-import * as serviceWorker from './audio-source/serviceWorker';
-import {IndexRouter} from "./audio-source/server";
+import * as serviceWorker from './audio-source/src/serviceWorker';
+import {IndexRouter} from "./audio-source/src/server";
 import {pageList, themeName} from "./pages/";
-import RemotePresetLibrary from "./audio-source/song/library/RemotePresetLibrary";
+import RemotePresetLibrary from "./audio-source/src/song/library/RemotePresetLibrary";
 
 
 

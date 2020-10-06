@@ -89,7 +89,7 @@ It is not necessary to run the development server on a production deployment.
 $ npm start
 ~~~~
 
-### Browse to Local Development Server
+### Browse to Local "Development" Server
 [http://localhost:3000](http://localhost:3000)
 
 Note: For the API calls to work, also run the production server below.
@@ -102,7 +102,7 @@ It also distributes the optimized production server HTML.
 $ npm run start-server
 ~~~~
 
-### Browse to Local Production Server
+### Browse to Local "Production" Server
 [http://localhost:8080](http://localhost:8080)
 
 Note: you can change the port and other config options at this location:

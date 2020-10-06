@@ -1,6 +1,6 @@
 import * as React from "react";
-import {ASUIPageContainer, ASUIMarkdown} from "../audio-source/components";
-import ASUIPagePlaylist from "../audio-source/components/page/playlist/ASUIPagePlaylist";
+import {ASUIPageContainer, ASUIMarkdown} from "../audio-source/src/components";
+import ASUIPagePlaylist from "../audio-source/src/components/page/playlist/ASUIPagePlaylist";
 
 
 export default class HomePage extends React.Component {
@@ -21,12 +21,9 @@ export default class HomePage extends React.Component {
 
 const introText = `
 
-Catch our presentation for 
+Check out our 
 [MAGWest 2020](https://www.magwest.org/news/2020/9/25/schedule-is-live)
-streaming live __today__ Oct 2nd 9:30 PDT
-at [twitch.tv](https://www.twitch.tv/MAGFest).
-
-or click the video link below:
+presentation below:
 
 [![MAGWest SNESology Presentation](https://img.youtube.com/vi/8BGDdypgcwI/0.jpg)](https://www.youtube.com/watch?v=8BGDdypgcwI "MAGWest SNESology Presentation")
 
