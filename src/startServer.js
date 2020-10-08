@@ -1,7 +1,8 @@
 import path from "path";
 import Server from "./audio-source/src/server/Server";
 
-const serverConfig = require('./config.json');
+
+import serverConfig from './config.json';
 
 
 if(!serverConfig.publicDirectory)
